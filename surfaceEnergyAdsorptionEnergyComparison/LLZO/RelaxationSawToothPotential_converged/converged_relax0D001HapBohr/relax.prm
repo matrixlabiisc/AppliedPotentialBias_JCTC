@@ -1,0 +1,60 @@
+set VERBOSITY=4
+set USE GPU=true
+set SOLVER MODE = GEOOPT
+set RESTART=false
+subsection Geometry
+  set NATOMS=288
+  set NATOM TYPES=4
+  set ATOMIC COORDINATES FILE      = coordinates.inp
+  set DOMAIN VECTORS FILE = domainVectorsLaTermination.inp
+  subsection Optimization
+    set ION FORCE = true
+set OPTIMIZATION MODE    = ION
+  end
+  end
+
+subsection Boundary conditions
+  set PERIODIC1                       = true
+  set PERIODIC2                       = true
+  set PERIODIC3                       = false
+    subsection External Electric Potential
+  set INCLUDE EXTERNAL ELECTRIC POTENTIAL = true
+  set TYPE OF EXTERNAL ELECTRIC POTENTIAL = SAWTOOTH_POTENTIAL
+  set SLOPE OF EXTERNAL POTENTIAL = 0.001
+  set POSITION OF SAW TOOTH POTENTIAL MAX = 0.9
+  set REGION OF PTENTIAL DECREASE = 0.2
+  end
+end
+
+subsection DFT functional parameters
+  set EXCHANGE CORRELATION TYPE   = GGA-PBE
+  set PSEUDOPOTENTIAL CALCULATION = true
+  set PSEUDOPOTENTIAL FILE NAMES LIST = pseudo.inp
+end
+
+subsection SCF parameters
+  set MIXING PARAMETER                 = 0.2
+  set TEMPERATURE                      = 5
+  set TOLERANCE                        = 1e-6
+    set MAXIMUM ITERATIONS              = 200
+subsection Eigen-solver parameters
+set OVERLAP COMPUTE COMMUN CHEBY                         = true
+set USE SINGLE PREC CHEBY                                = true
+end
+end
+
+subsection Finite element mesh parameters
+  set POLYNOMIAL ORDER=7
+set POLYNOMIAL ORDER ELECTROSTATICS = 10
+  subsection Auto mesh generation parameters
+    set ATOM BALL RADIUS = 7.0
+    set MESH SIZE AROUND ATOM  = 1.0
+  end
+end
+
+subsection Poisson problem parameters
+  set GPU MODE           = true
+  set MAXIMUM ITERATIONS = 20000
+  set TOLERANCE          = 1e-10
+  set VSELF GPU MODE     = true
+end

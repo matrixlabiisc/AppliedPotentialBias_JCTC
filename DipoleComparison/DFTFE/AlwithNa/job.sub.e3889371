@@ -1,0 +1,58 @@
+
+Lmod is automatically replacing "nvhpc/23.9" with "gcc-native/12.3".
+
+
+Lmod is automatically replacing "PrgEnv-nvhpc/8.5.0" with "PrgEnv-gnu/8.5.0".
+
+
+Due to MODULEPATH changes, the following have been reloaded:
+  1) cray-mpich/8.1.28
+
+GTL_DEBUG: [0] cudaHostUnregister: pointer does not correspond to a registered memory region
+GTL_DEBUG: [80] cudaHostUnregister: pointer does not correspond to a registered memory region
+GTL_DEBUG: [24] cudaHostUnregister: pointer does not correspond to a registered memory region
+GTL_DEBUG: [36] cudaHostUnregister: pointer does not correspond to a registered memory region
+GTL_DEBUG: [44] cudaHostUnregister: pointer does not correspond to a registered memory region
+GTL_DEBUG: [60] cudaHostUnregister: pointer does not correspond to a registered memory region
+GTL_DEBUG: [88] cudaHostUnregister: pointer does not correspond to a registered memory region
+GTL_DEBUG: [12] cudaHostUnregister: pointer does not correspond to a registered memory region
+GTL_DEBUG: [28] cudaHostUnregister: pointer does not correspond to a registered memory region
+GTL_DEBUG: [52] cudaHostUnregister: pointer does not correspond to a registered memory region
+GTL_DEBUG: [72] cudaHostUnregister: pointer does not correspond to a registered memory region
+GTL_DEBUG: [84] cudaHostUnregister: pointer does not correspond to a registered memory region
+GTL_DEBUG: [92] cudaHostUnregister: pointer does not correspond to a registered memory region
+GTL_DEBUG: [4] cudaHostUnregister: pointer does not correspond to a registered memory region
+GTL_DEBUG: [8] cudaHostUnregister: pointer does not correspond to a registered memory region
+GTL_DEBUG: [20] cudaHostUnregister: pointer does not correspond to a registered memory region
+GTL_DEBUG: [32] cudaHostUnregister: pointer does not correspond to a registered memory region
+GTL_DEBUG: [40] cudaHostUnregister: pointer does not correspond to a registered memory region
+GTL_DEBUG: [48] cudaHostUnregister: pointer does not correspond to a registered memory region
+GTL_DEBUG: [64] cudaHostUnregister: pointer does not correspond to a registered memory region
+GTL_DEBUG: [76] cudaHostUnregister: pointer does not correspond to a registered memory region
+GTL_DEBUG: [16] cudaHostUnregister: pointer does not correspond to a registered memory region
+GTL_DEBUG: [56] cudaHostUnregister: pointer does not correspond to a registered memory region
+GTL_DEBUG: [68] cudaHostUnregister: pointer does not correspond to a registered memory region
+GTL_DEBUG: [24] cudaHostUnregister: pointer does not correspond to a registered memory region
+GTL_DEBUG: [0] cudaHostUnregister: pointer does not correspond to a registered memory region
+GTL_DEBUG: [48] cudaHostUnregister: pointer does not correspond to a registered memory region
+GTL_DEBUG: [72] cudaHostUnregister: pointer does not correspond to a registered memory region
+GTL_DEBUG: [52] cudaHostUnregister: pointer does not correspond to a registered memory region
+GTL_DEBUG: [4] cudaHostUnregister: pointer does not correspond to a registered memory region
+GTL_DEBUG: [44] cudaHostUnregister: pointer does not correspond to a registered memory region
+GTL_DEBUG: [20] cudaHostUnregister: pointer does not correspond to a registered memory region
+GTL_DEBUG: [28] cudaHostUnregister: pointer does not correspond to a registered memory region
+GTL_DEBUG: [68] cudaHostUnregister: pointer does not correspond to a registered memory region
+GTL_DEBUG: [76] cudaHostUnregister: pointer does not correspond to a registered memory region
+GTL_DEBUG: [92] cudaHostUnregister: pointer does not correspond to a registered memory region
+GTL_DEBUG: [88] cudaHostUnregister: pointer does not correspond to a registered memory region
+GTL_DEBUG: [16] cudaHostUnregister: pointer does not correspond to a registered memory region
+GTL_DEBUG: [56] cudaHostUnregister: pointer does not correspond to a registered memory region
+GTL_DEBUG: [60] cudaHostUnregister: pointer does not correspond to a registered memory region
+GTL_DEBUG: [40] cudaHostUnregister: pointer does not correspond to a registered memory region
+GTL_DEBUG: [64] cudaHostUnregister: pointer does not correspond to a registered memory region
+GTL_DEBUG: [84] cudaHostUnregister: pointer does not correspond to a registered memory region
+GTL_DEBUG: [12] cudaHostUnregister: pointer does not correspond to a registered memory region
+GTL_DEBUG: [32] cudaHostUnregister: pointer does not correspond to a registered memory region
+GTL_DEBUG: [80] cudaHostUnregister: pointer does not correspond to a registered memory region
+GTL_DEBUG: [36] cudaHostUnregister: pointer does not correspond to a registered memory region
+GTL_DEBUG: [8] cudaHostUnregister: pointer does not correspond to a registered memory region

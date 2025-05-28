@@ -1,0 +1,66 @@
+set VERBOSITY = 4
+set USE GPU =true
+set SOLVER MODE = GS
+subsection Geometry
+  set NATOMS=32
+  set NATOM TYPES=1
+  set ATOMIC COORDINATES FILE = coordinatesSlab.inp 
+  set DOMAIN VECTORS FILE = domainVectors.inp
+  subsection Optimization
+    set ION FORCE = true
+  end
+end
+
+subsection Boundary conditions
+  set PERIODIC1                                                    = true
+  set PERIODIC2                                                    = true
+  set PERIODIC3                                                    = false
+ subsection External Electric Potential
+    set INCLUDE EXTERNAL ELECTRIC POTENTIAL                       = true
+    set POSITION OF SAW TOOTH POTENTIAL MAX                       = 0.9
+    set REGION OF SAW TOOTH POTENTIAL DECREASE                    = 0.2
+    set SLOPE OF EXTERNAL POTENTIAL                               = -0.001
+    set TYPE OF EXTERNAL ELECTRIC POTENTIAL                       = SAWTOOTH_POTENTIAL
+  end
+end
+
+subsection DFT functional parameters
+  set EXCHANGE CORRELATION TYPE   = GGA-PBE
+  set PSEUDOPOTENTIAL CALCULATION = true
+  set PSEUDOPOTENTIAL FILE NAMES LIST = pseudo.inp
+end
+
+subsection SCF parameters
+  set TEMPERATURE                      = 500
+  set TOLERANCE                        = 1e-7
+    set MAXIMUM ITERATIONS              = 200
+  set MIXING METHOD                   = ANDERSON_WITH_RESTA
+end
+
+subsection Finite element mesh parameters
+  set POLYNOMIAL ORDER=7
+  set POLYNOMIAL ORDER ELECTROSTATICS = 10
+  subsection Auto mesh generation parameters
+    set ATOM BALL RADIUS = 7.0
+    set MESH SIZE AROUND ATOM  = 1.0
+  end
+end
+
+subsection Brillouin zone k point sampling options
+  set USE TIME REVERSAL SYMMETRY = true
+  subsection Monkhorst-Pack (MP) grid generation
+    set SAMPLING POINTS 1 = 12
+    set SAMPLING POINTS 2 = 12
+    set SAMPLING POINTS 3 = 1
+    set SAMPLING SHIFT 1  = 1
+    set SAMPLING SHIFT 2  = 1
+    set SAMPLING SHIFT 3  = 0
+  end
+end
+subsection Parallelization
+  set BAND PARAL OPT           = true
+  set MPI ALLREDUCE BLOCK SIZE = 100.0
+  set NPBAND                   = 1
+  set NPKPT                    = 4
+end
+

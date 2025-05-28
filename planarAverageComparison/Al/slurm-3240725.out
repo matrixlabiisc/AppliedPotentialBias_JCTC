@@ -1,0 +1,280 @@
+PE 0: MPICH processor detected:
+PE 0:   AMD Trento (25:48:1) (family:model:stepping)
+MPI VERSION    : CRAY MPICH version 8.1.31.9 (ANL base 3.4a2)
+MPI BUILD INFO : Wed Oct 09 19:33 2024 (git hash 35f5082) (CH4)
+PE 0: MPICH environment settings =====================================
+PE 0:   MPICH_ENV_DISPLAY                              = 1
+PE 0:   MPICH_VERSION_DISPLAY                          = 1
+PE 0:   MPICH_ABORT_ON_ERROR                           = 0
+PE 0:   MPICH_CPUMASK_DISPLAY                          = 0
+PE 0:   MPICH_STATS_DISPLAY                            = 0
+PE 0:   MPICH_RANK_REORDER_METHOD                      = 1
+PE 0:   MPICH_RANK_REORDER_DISPLAY                     = 0
+PE 0:   MPICH_MEMCPY_MEM_CHECK                         = 0
+PE 0:   MPICH_USE_SYSTEM_MEMCPY                        = 1
+PE 0:   MPICH_OPTIMIZED_MEMCPY                         = 0
+PE 0:   MPICH_ALLOC_MEM_PG_SZ                          = 4096
+PE 0:   MPICH_ALLOC_MEM_POLICY                         = PREFERRED
+PE 0:   MPICH_ALLOC_MEM_AFFINITY                       = SYS_DEFAULT
+PE 0:   MPICH_MALLOC_FALLBACK                          = 0
+PE 0:   MPICH_MEM_DEBUG_FNAME                          = 
+PE 0:   MPICH_INTERNAL_MEM_AFFINITY                    = SYS_DEFAULT
+PE 0:   MPICH_NO_BUFFER_ALIAS_CHECK                    = 0
+PE 0:   MPICH_COLL_SYNC                                = 0
+PE 0:   MPICH_SINGLE_HOST_ENABLED                        = 1
+PE 0:   MPICH_USE_PERSISTENT_TOPS                      = 0
+PE 0:   MPICH_DISABLE_PERSISTENT_RECV_TOPS             = 0
+PE 0:   MPICH_MAX_TOPS_COUNTERS                        = 0
+PE 0:   MPICH_ENABLE_ACTIVE_WAIT                       = 0
+PE 0: MPICH/RMA environment settings =================================
+PE 0:   MPICH_RMA_MAX_PENDING                          = 128
+PE 0:   MPICH_RMA_SHM_ACCUMULATE                       = 0
+PE 0: MPICH/GPU environment settings =================================
+PE 0:   MPICH_GPU_SUPPORT_ENABLED                      = 1
+PE 0:   MPICH_GPU_MAX_NUM_STREAMS                      = 1
+PE 0:   MPICH_GPU_IPC_ENABLED                          = 1
+PE 0:   MPICH_GPU_IPC_CACHE_MAX_SIZE                   = 50
+PE 0:   MPICH_GPU_EAGER_REGISTER_HOST_MEM              = 1
+PE 0:   MPICH_GPU_IPC_THRESHOLD                        = 1024
+PE 0:   MPICH_GPU_NO_ASYNC_COPY                        = 0
+PE 0:   MPICH_GPU_COLL_STAGING_AREA_OPT                = 1
+PE 0:   MPICH_GPU_EAGER_DEVICE_MEM                     = 0
+PE 0:   MPICH_GPU_USE_STREAM_TRIGGERED                 = 0
+PE 0:   MPICH_ENABLE_YAKSA                             = 0
+PE 0:   MPICH_GPU_USE_KERNEL_TRIGGERED                 = 0
+PE 0: MPICH/Dynamic Process Management environment settings ==========
+PE 0:   MPICH_DPM_DIR                                  = 
+PE 0:   MPICH_LOCAL_SPAWN_SERVER                       = 0
+PE 0:   MPICH_SPAWN_USE_RANKPOOL                       = 0
+PE 0: MPICH/SMP environment settings =================================
+PE 0:   MPICH_SMP_SINGLE_COPY_MODE                     = NONE
+PE 0:   MPICH_SMP_SINGLE_COPY_SIZE                     = 8192
+PE 0:   MPICH_SHM_PROGRESS_MAX_BATCH_SIZE              = 8
+PE 0: MPICH/OFI environment settings =================================
+PE 0:   MPICH_OFI_USE_PROVIDER                         = cxi
+PE 0:   MPICH_OFI_VERBOSE                              = 0
+PE 0:   MPICH_OFI_NIC_VERBOSE                          = 0
+PE 0:   FI_CXI_RDZV_THRESHOLD                          = 16384
+PE 0:   FI_CXI_RDZV_EAGER_SIZE                         = 2048
+PE 0:   FI_CXI_DEFAULT_CQ_SIZE                         = 131072
+PE 0:   FI_CXI_DEFAULT_TX_SIZE                         = 1024
+PE 0:   FI_CXI_OFLOW_BUF_SIZE                          = 12582912
+PE 0:   FI_CXI_OFLOW_BUF_COUNT                         = 3
+PE 0:   FI_CXI_RX_MATCH_MODE                           = hardware
+PE 0:   FI_CXI_REQ_BUF_MIN_POSTED                      = 6
+PE 0:   FI_CXI_REQ_BUF_SIZE                            = 12582912
+PE 0:   FI_CXI_REQ_BUF_MAX_CACHED                      = 0
+PE 0:   FI_MR_CACHE_MAX_SIZE                           = -1
+PE 0:   FI_MR_CACHE_MAX_COUNT                          = 524288
+PE 0:   MPICH_OFI_HWCOLL_OPT                           = 0
+PE 0:   MPICH_OFI_HWCOLL_MIN_NODES                     = 32
+PE 0:   MPICH_OFI_HWCOLL_POLICY                        = FIRST_USE
+PE 0:   MPICH_OFI_HWCOLL_CONCURRENCY                   = 1
+PE 0:   MPICH_OFI_HWCOLL_STATS                         = 0
+PE 0:   MPICH_OFI_HWCOLL_VERBOSE                       = 0
+PE 0:   MPICH_OFI_DEFAULT_TCLASS                       = TC_BEST_EFFORT
+PE 0:   MPICH_OFI_TCLASS_ERRORS                        = warn
+PE 0:   MPICH_OFI_CXI_PID_BASE                         = 0
+PE 0:   MPICH_OFI_USE_SCALABLE_STARTUP                 = 1
+PE 0:   MPICH_OFI_CXI_COUNTER_REPORT                   = 1
+PE 0:   MPICH_OFI_CXI_COUNTER_VERBOSE                  = 0
+PE 0:   MPICH_OFI_CXI_COUNTER_FILE                     = NULL
+PE 0:   MPICH_OFI_CXI_COUNTER_REPORT_FILE              = NULL
+PE 0:   MPICH_OFI_NIC_POLICY                           = NUMA
+PE 0:   MPICH_OFI_NIC_MAPPING                          = NULL
+PE 0:   MPICH_OFI_NUM_NICS                             = NULL
+PE 0:   MPICH_CH4_OFI_ENABLE_CONTROL_AUTO_PROGRESS     = -1
+PE 0:   MPICH_CH4_OFI_ENABLE_DATA_AUTO_PROGRESS        = -1
+PE 0:   MPICH_OFI_RMA_STARTUP_CONNECT                  = 0
+PE 0:   MPICH_OFI_SKIP_NIC_SYMMETRY_TEST               = 0
+PE 0:   MPICH_OFI_STARTUP_CONNECT                      = 0
+PE 0: MPICH/COLLECTIVE environment settings ==========================
+PE 0:   MPICH_COLL_OPT_OFF                             = 0
+PE 0:   MPICH_BCAST_ONLY_TREE                          = 1
+PE 0:   MPICH_BCAST_INTERNODE_RADIX                    = 4
+PE 0:   MPICH_BCAST_INTRANODE_RADIX                    = 4
+PE 0:   MPICH_ALLTOALL_SHORT_MSG                       = 64-512
+PE 0:   MPICH_ALLTOALL_SYNC_FREQ                       = 1-24
+PE 0:   MPICH_ALLTOALL_BLK_SIZE                        = 16384
+PE 0:   MPICH_ALLTOALL_CHUNKING_MAX_NODES              = 90
+PE 0:   MPICH_ALLTOALLV_THROTTLE                       = 8
+PE 0:   MPICH_ALLGATHER_VSHORT_MSG                     = 8192-16384
+PE 0:   MPICH_ALLGATHERV_VSHORT_MSG                    = 8192-16384
+PE 0:   MPICH_GATHERV_SHORT_MSG                        = 131072
+PE 0:   MPICH_GATHERV_MIN_COMM_SIZE                    = 64
+PE 0:   MPICH_GATHERV_MAX_TMP_SIZE                     = 536870912
+PE 0:   MPICH_GATHERV_SYNC_FREQ                        = 16
+PE 0:   MPICH_IGATHERV_MIN_COMM_SIZE                   = 1000
+PE 0:   MPICH_IGATHERV_SYNC_FREQ                       = 100
+PE 0:   MPICH_IGATHERV_RAND_COMMSIZE                   = 2048
+PE 0:   MPICH_IGATHERV_RAND_RECVLIST                   = 0
+PE 0:   MPICH_SCATTERV_SHORT_MSG                       = 2048-8192
+PE 0:   MPICH_SCATTERV_MIN_COMM_SIZE                   = 64
+PE 0:   MPICH_SCATTERV_MAX_TMP_SIZE                    = 536870912
+PE 0:   MPICH_SCATTERV_SYNC_FREQ                       = 16
+PE 0:   MPICH_SCATTERV_SYNCHRONOUS                     = 0
+PE 0:   MPICH_ALLREDUCE_MAX_SMP_SIZE                   = 262144
+PE 0:   MPICH_ALLREDUCE_BLK_SIZE                       = 716800
+PE 0:   MPICH_GPU_ALLGATHER_VSHORT_MSG_ALGORITHM       = 1
+PE 0:   MPICH_GPU_ALLREDUCE_USE_KERNEL                 = 1
+PE 0:   MPICH_GPU_COLL_STAGING_BUF_SIZE                = 1048576
+PE 0:   MPICH_GPU_ALLREDUCE_STAGING_THRESHOLD          = 256
+PE 0:   MPICH_GPU_ALLREDUCE_BLK_SIZE                   = 8388608
+PE 0:   MPICH_GPU_ALLREDUCE_KERNEL_THRESHOLD           = 131072
+PE 0:   MPICH_ALLREDUCE_NO_SMP                         = 0
+PE 0:   MPICH_REDUCE_NO_SMP                            = 0
+PE 0:   MPICH_REDUCE_SCATTER_COMMUTATIVE_LONG_MSG_SIZE = 524288
+PE 0:   MPICH_REDUCE_SCATTER_MAX_COMMSIZE              = 1000
+PE 0:   MPICH_SHARED_MEM_COLL_OPT                      = 1
+PE 0:   MPICH_SHARED_MEM_COLL_NCELLS                   = 8
+PE 0:   MPICH_SHARED_MEM_COLL_CELLSZ                   = 256
+PE 0: MPICH MPIIO environment settings ===============================
+PE 0:   MPICH_MPIIO_HINTS_DISPLAY                      = 0
+PE 0:   MPICH_MPIIO_HINTS                              = NULL
+PE 0:   MPICH_MPIIO_ABORT_ON_RW_ERROR                  = disable
+PE 0:   MPICH_MPIIO_CB_ALIGN                           = 2
+PE 0:   MPICH_MPIIO_DVS_MAXNODES                       = -1
+PE 0:   MPICH_MPIIO_AGGREGATOR_PLACEMENT_DISPLAY       = 0
+PE 0:   MPICH_MPIIO_AGGREGATOR_PLACEMENT_STRIDE        = -1
+PE 0:   MPICH_MPIIO_MAX_NUM_IRECV                      = 50
+PE 0:   MPICH_MPIIO_MAX_NUM_ISEND                      = 50
+PE 0:   MPICH_MPIIO_MAX_SIZE_ISEND                     = 10485760
+PE 0:   MPICH_MPIIO_OFI_STARTUP_CONNECT                = disable
+PE 0:   MPICH_MPIIO_OFI_STARTUP_NODES_AGGREGATOR        = 2
+PE 0: MPICH MPIIO statistics environment settings ====================
+PE 0:   MPICH_MPIIO_STATS                              = 0
+PE 0:   MPICH_MPIIO_TIMERS                             = 0
+PE 0:   MPICH_MPIIO_WRITE_EXIT_BARRIER                 = 1
+PE 0: MPICH Thread Safety settings ===================================
+PE 0:   MPICH_ASYNC_PROGRESS                           = 0
+PE 0:   MPICH_OPT_THREAD_SYNC                          = 1
+PE 0:   rank 0 required = single, was provided = single
+ELPA: Default for option 'omp_threads' is set to '3' due to environment variable ELPA_DEFAULT_omp_threads
+ELPA: Default for option 'omp_threads' is set to '3' due to environment variable ELPA_DEFAULT_omp_threads
+ELPA: Default for option 'omp_threads' is set to '3' due to environment variable ELPA_DEFAULT_omp_threads
+ELPA: Default for option 'omp_threads' is set to '3' due to environment variable ELPA_DEFAULT_omp_threads
+srun: error: frontier06142: task 184: Segmentation fault (core dumped)
+srun: Terminating StepId=3240725.0
+slurmstepd: error: *** STEP 3240725.0 ON frontier06131 CANCELLED AT 2025-03-26T15:25:45 ***
+srun: error: frontier06142: task 187: Segmentation fault (core dumped)
+srun: error: frontier06140: task 147: Segmentation fault (core dumped)
+srun: error: frontier06139: tasks 135-136,138-141,143: Terminated
+srun: error: frontier06137: tasks 98-104,106,108,110: Terminated
+srun: error: frontier06142: task 183: Segmentation fault (core dumped)
+srun: error: frontier06140: task 151: Segmentation fault (core dumped)
+srun: error: frontier06139: tasks 128-134,137,142: Terminated
+srun: error: frontier06137: tasks 96-97,105,107,109,111: Terminated
+srun: error: frontier06138: tasks 112-127: Terminated
+srun: error: frontier06140: task 148: Segmentation fault (core dumped)
+srun: error: frontier06142: task 188: Segmentation fault (core dumped)
+srun: error: frontier06140: task 152: Segmentation fault (core dumped)
+srun: error: frontier06142: task 185: Segmentation fault (core dumped)
+srun: error: frontier06140: task 144: Segmentation fault (core dumped)
+srun: error: frontier06142: task 189: Segmentation fault (core dumped)
+srun: error: frontier06140: task 150: Segmentation fault (core dumped)
+srun: error: frontier06140: task 146: Segmentation fault (core dumped)
+srun: error: frontier06142: task 191: Segmentation fault (core dumped)
+srun: error: frontier06134: task 52: Segmentation fault (core dumped)
+srun: error: frontier06134: task 55: Segmentation fault (core dumped)
+srun: error: frontier06136: tasks 87,91-92: Segmentation fault (core dumped)
+srun: error: frontier06133: task 43: Segmentation fault (core dumped)
+srun: error: frontier06140: task 149: Segmentation fault (core dumped)
+srun: error: frontier06131: task 7: Segmentation fault (core dumped)
+srun: error: frontier06142: task 186: Segmentation fault (core dumped)
+srun: error: frontier06131: tasks 3-4: Segmentation fault (core dumped)
+srun: error: frontier06142: task 182: Segmentation fault (core dumped)
+srun: error: frontier06140: task 153: Segmentation fault (core dumped)
+srun: error: frontier06131: task 8: Segmentation fault (core dumped)
+srun: error: frontier06136: task 88: Segmentation fault (core dumped)
+srun: error: frontier06140: task 158: Segmentation fault (core dumped)
+srun: error: frontier06141: tasks 161,168,172: Segmentation fault (core dumped)
+srun: error: frontier06142: task 177: Segmentation fault (core dumped)
+srun: error: frontier06142: task 181: Segmentation fault (core dumped)
+srun: error: frontier06140: task 156: Segmentation fault (core dumped)
+srun: error: frontier06134: task 51: Segmentation fault (core dumped)
+srun: error: frontier06142: task 179: Segmentation fault (core dumped)
+srun: error: frontier06140: task 154: Segmentation fault (core dumped)
+srun: error: frontier06134: task 56: Segmentation fault (core dumped)
+srun: error: frontier06141: task 162: Segmentation fault (core dumped)
+srun: error: frontier06142: task 180: Segmentation fault (core dumped)
+srun: error: frontier06141: task 174: Segmentation fault (core dumped)
+srun: error: frontier06140: task 155: Segmentation fault (core dumped)
+srun: error: frontier06141: tasks 166-167,173: Segmentation fault (core dumped)
+srun: error: frontier06141: task 163: Segmentation fault (core dumped)
+srun: error: frontier06141: task 170: Segmentation fault (core dumped)
+srun: error: frontier06142: tasks 176,190: Segmentation fault (core dumped)
+srun: error: frontier06140: task 159: Segmentation fault (core dumped)
+srun: error: frontier06141: tasks 165,169: Segmentation fault (core dumped)
+srun: error: frontier06141: tasks 171,175: Segmentation fault (core dumped)
+srun: error: frontier06133: task 45: Segmentation fault (core dumped)
+srun: error: frontier06134: tasks 48,54: Segmentation fault (core dumped)
+srun: error: frontier06141: task 160: Segmentation fault (core dumped)
+srun: error: frontier06141: task 164: Segmentation fault (core dumped)
+srun: error: frontier06142: task 178: Segmentation fault (core dumped)
+srun: error: frontier06140: task 157: Segmentation fault (core dumped)
+srun: error: frontier06140: task 145: Segmentation fault (core dumped)
+srun: error: frontier06133: task 40: Segmentation fault (core dumped)
+srun: error: frontier06131: tasks 0,2: Segmentation fault (core dumped)
+srun: error: frontier06136: task 86: Segmentation fault (core dumped)
+srun: error: frontier06131: task 6: Segmentation fault (core dumped)
+srun: error: frontier06134: task 50: Segmentation fault (core dumped)
+srun: error: frontier06133: task 39: Segmentation fault (core dumped)
+srun: error: frontier06133: task 38: Segmentation fault (core dumped)
+srun: error: frontier06136: task 93: Segmentation fault (core dumped)
+srun: error: frontier06136: task 89: Segmentation fault (core dumped)
+srun: error: frontier06131: task 5: Segmentation fault (core dumped)
+srun: error: frontier06136: task 85: Segmentation fault (core dumped)
+srun: error: frontier06135: task 78: Segmentation fault (core dumped)
+srun: error: frontier06133: task 44: Segmentation fault (core dumped)
+srun: error: frontier06135: task 70: Segmentation fault (core dumped)
+srun: error: frontier06134: task 62: Segmentation fault (core dumped)
+srun: error: frontier06135: tasks 71,76-77: Segmentation fault (core dumped)
+srun: error: frontier06135: tasks 72-73: Segmentation fault (core dumped)
+srun: error: frontier06134: task 58: Segmentation fault (core dumped)
+srun: error: frontier06136: task 95: Segmentation fault (core dumped)
+srun: error: frontier06135: tasks 65,67: Segmentation fault (core dumped)
+srun: error: frontier06131: task 9: Segmentation fault (core dumped)
+srun: error: frontier06135: task 74: Segmentation fault (core dumped)
+srun: error: frontier06136: task 84: Segmentation fault (core dumped)
+srun: error: frontier06134: tasks 60,63: Segmentation fault (core dumped)
+srun: error: frontier06133: task 32: Segmentation fault (core dumped)
+srun: error: frontier06132: task 25: Segmentation fault (core dumped)
+srun: error: frontier06134: task 53: Segmentation fault (core dumped)
+srun: error: frontier06135: task 66: Segmentation fault (core dumped)
+srun: error: frontier06132: tasks 17,23,28,30: Segmentation fault (core dumped)
+srun: error: frontier06131: task 14: Segmentation fault (core dumped)
+srun: error: frontier06136: task 90: Segmentation fault (core dumped)
+srun: error: frontier06132: tasks 22,24: Segmentation fault (core dumped)
+srun: error: frontier06136: task 80: Segmentation fault (core dumped)
+srun: error: frontier06135: task 69: Segmentation fault (core dumped)
+srun: error: frontier06132: tasks 18,26: Segmentation fault (core dumped)
+srun: error: frontier06131: task 10: Segmentation fault (core dumped)
+srun: error: frontier06135: task 79: Segmentation fault (core dumped)
+srun: error: frontier06132: task 19: Segmentation fault (core dumped)
+srun: error: frontier06134: task 57: Segmentation fault (core dumped)
+srun: error: frontier06133: task 46: Segmentation fault (core dumped)
+srun: error: frontier06135: task 68: Segmentation fault (core dumped)
+srun: error: frontier06135: task 64: Segmentation fault (core dumped)
+srun: error: frontier06135: task 75: Segmentation fault (core dumped)
+srun: error: frontier06136: task 82: Segmentation fault (core dumped)
+srun: error: frontier06131: task 12: Segmentation fault (core dumped)
+srun: error: frontier06132: tasks 21,29: Segmentation fault (core dumped)
+srun: error: frontier06131: tasks 11,15: Segmentation fault (core dumped)
+srun: error: frontier06136: task 83: Segmentation fault (core dumped)
+srun: error: frontier06134: task 59: Segmentation fault (core dumped)
+srun: error: frontier06132: tasks 16,27: Segmentation fault (core dumped)
+srun: error: frontier06133: tasks 34,41: Segmentation fault (core dumped)
+srun: error: frontier06132: tasks 20,31: Segmentation fault (core dumped)
+srun: error: frontier06134: task 49: Segmentation fault (core dumped)
+srun: error: frontier06136: task 81: Segmentation fault (core dumped)
+srun: error: frontier06133: task 47: Segmentation fault (core dumped)
+srun: error: frontier06134: task 61: Segmentation fault (core dumped)
+srun: error: frontier06136: task 94: Segmentation fault (core dumped)
+srun: error: frontier06131: task 13: Segmentation fault (core dumped)
+srun: error: frontier06131: task 1: Segmentation fault (core dumped)
+srun: error: frontier06133: task 42: Segmentation fault (core dumped)
+srun: error: frontier06133: task 33: Segmentation fault (core dumped)
+srun: error: frontier06133: task 35: Segmentation fault (core dumped)
+srun: error: frontier06133: task 37: Segmentation fault (core dumped)
+srun: error: frontier06133: task 36: Segmentation fault (core dumped)
+srun: Force Terminated StepId=3240725.0

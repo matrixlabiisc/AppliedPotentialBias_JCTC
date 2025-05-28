@@ -1,0 +1,1004 @@
+“RANK= 8 LOCAL_RANK= 0 gpu= 0”
+“RANK= 42 LOCAL_RANK= 2 gpu= 2”
+“RANK= 40 LOCAL_RANK= 0 gpu= 0”
+“RANK= 68 LOCAL_RANK= 0 gpu= 0”
+“RANK= 60 LOCAL_RANK= 0 gpu= 0”
+“RANK= 0 LOCAL_RANK= 0 gpu= 0”
+“RANK= 47 LOCAL_RANK= 3 gpu= 3”
+“RANK= 39 LOCAL_RANK= 3 gpu= 3”
+“RANK= 54 LOCAL_RANK= 2 gpu= 2”
+“RANK= 13 LOCAL_RANK= 1 gpu= 1”
+“RANK= 27 LOCAL_RANK= 3 gpu= 3”
+“RANK= 10 LOCAL_RANK= 2 gpu= 2”
+“RANK= 92 LOCAL_RANK= 0 gpu= 0”
+“RANK= 93 LOCAL_RANK= 1 gpu= 1”
+“RANK= 57 LOCAL_RANK= 1 gpu= 1”
+“RANK= 77 LOCAL_RANK= 1 gpu= 1”
+“RANK= 69 LOCAL_RANK= 1 gpu= 1”
+“RANK= 11 LOCAL_RANK= 3 gpu= 3”
+“RANK= 3 LOCAL_RANK= 3 gpu= 3”
+“RANK= 76 LOCAL_RANK= 0 gpu= 0”
+“RANK= 44 LOCAL_RANK= 0 gpu= 0”
+“RANK= 46 LOCAL_RANK= 2 gpu= 2”
+“RANK= 51 LOCAL_RANK= 3 gpu= 3”
+“RANK= 81 LOCAL_RANK= 1 gpu= 1”
+“RANK= 22 LOCAL_RANK= 2 gpu= 2”
+“RANK= 82 LOCAL_RANK= 2 gpu= 2”
+“RANK= 80 LOCAL_RANK= 0 gpu= 0”
+“RANK= 88 LOCAL_RANK= 0 gpu= 0”
+“RANK= 14 LOCAL_RANK= 2 gpu= 2”
+“RANK= 79 LOCAL_RANK= 3 gpu= 3”
+“RANK= 19 LOCAL_RANK= 3 gpu= 3”
+“RANK= 12 LOCAL_RANK= 0 gpu= 0”
+“RANK= 35 LOCAL_RANK= 3 gpu= 3”
+“RANK= 32 LOCAL_RANK= 0 gpu= 0”
+“RANK= 86 LOCAL_RANK= 2 gpu= 2”
+“RANK= 36 LOCAL_RANK= 0 gpu= 0”
+“RANK= 38 LOCAL_RANK= 2 gpu= 2”
+“RANK= 2 LOCAL_RANK= 2 gpu= 2”
+“RANK= 62 LOCAL_RANK= 2 gpu= 2”
+“RANK= 24 LOCAL_RANK= 0 gpu= 0”
+“RANK= 28 LOCAL_RANK= 0 gpu= 0”
+“RANK= 26 LOCAL_RANK= 2 gpu= 2”
+“RANK= 4 LOCAL_RANK= 0 gpu= 0”
+“RANK= 59 LOCAL_RANK= 3 gpu= 3”
+“RANK= 58 LOCAL_RANK= 2 gpu= 2”
+“RANK= 34 LOCAL_RANK= 2 gpu= 2”
+“RANK= 30 LOCAL_RANK= 2 gpu= 2”
+“RANK= 5 LOCAL_RANK= 1 gpu= 1”
+“RANK= 29 LOCAL_RANK= 1 gpu= 1”
+“RANK= 6 LOCAL_RANK= 2 gpu= 2”
+“RANK= 87 LOCAL_RANK= 3 gpu= 3”
+“RANK= 53 LOCAL_RANK= 1 gpu= 1”
+“RANK= 63 LOCAL_RANK= 3 gpu= 3”
+“RANK= 37 LOCAL_RANK= 1 gpu= 1”
+“RANK= 70 LOCAL_RANK= 2 gpu= 2”
+“RANK= 84 LOCAL_RANK= 0 gpu= 0”
+“RANK= 52 LOCAL_RANK= 0 gpu= 0”
+“RANK= 83 LOCAL_RANK= 3 gpu= 3”
+“RANK= 55 LOCAL_RANK= 3 gpu= 3”
+“RANK= 72 LOCAL_RANK= 0 gpu= 0”
+“RANK= 74 LOCAL_RANK= 2 gpu= 2”
+“RANK= 43 LOCAL_RANK= 3 gpu= 3”
+“RANK= 7 LOCAL_RANK= 3 gpu= 3”
+“RANK= 31 LOCAL_RANK= 3 gpu= 3”
+“RANK= 95 LOCAL_RANK= 3 gpu= 3”
+“RANK= 75 LOCAL_RANK= 3 gpu= 3”
+“RANK= 25 LOCAL_RANK= 1 gpu= 1”
+“RANK= 90 LOCAL_RANK= 2 gpu= 2”
+“RANK= 91 LOCAL_RANK= 3 gpu= 3”
+“RANK= 15 LOCAL_RANK= 3 gpu= 3”
+“RANK= 56 LOCAL_RANK= 0 gpu= 0”
+“RANK= 48 LOCAL_RANK= 0 gpu= 0”
+“RANK= 71 LOCAL_RANK= 3 gpu= 3”
+“RANK= 50 LOCAL_RANK= 2 gpu= 2”
+“RANK= 21 LOCAL_RANK= 1 gpu= 1”
+“RANK= 65 LOCAL_RANK= 1 gpu= 1”
+“RANK= 20 LOCAL_RANK= 0 gpu= 0”
+“RANK= 23 LOCAL_RANK= 3 gpu= 3”
+“RANK= 78 LOCAL_RANK= 2 gpu= 2”
+“RANK= 18 LOCAL_RANK= 2 gpu= 2”
+“RANK= 17 LOCAL_RANK= 1 gpu= 1”
+“RANK= 1 LOCAL_RANK= 1 gpu= 1”
+“RANK= 16 LOCAL_RANK= 0 gpu= 0”
+“RANK= 33 LOCAL_RANK= 1 gpu= 1”
+“RANK= 66 LOCAL_RANK= 2 gpu= 2”
+“RANK= 67 LOCAL_RANK= 3 gpu= 3”
+“RANK= 45 LOCAL_RANK= 1 gpu= 1”
+“RANK= 64 LOCAL_RANK= 0 gpu= 0”
+“RANK= 41 LOCAL_RANK= 1 gpu= 1”
+“RANK= 49 LOCAL_RANK= 1 gpu= 1”
+“RANK= 73 LOCAL_RANK= 1 gpu= 1”
+“RANK= 94 LOCAL_RANK= 2 gpu= 2”
+“RANK= 9 LOCAL_RANK= 1 gpu= 1”
+“RANK= 61 LOCAL_RANK= 1 gpu= 1”
+“RANK= 89 LOCAL_RANK= 1 gpu= 1”
+“RANK= 85 LOCAL_RANK= 1 gpu= 1”
+==========================================================================================================
+==========================================================================================================
+			Welcome to the Open Source program DFT-FE version	1.1.0-pre		        
+This is a C++ code for materials modeling from first principles using Kohn-Sham density functional theory.
+This is a real-space code for periodic, semi-periodic and non-periodic pseudopotential
+and all-electron calculations, and is based on adaptive finite-element discretization.
+For further details, and citing, please refer to our website: https://sites.google.com/umich.edu/dftfe
+==========================================================================================================
+ DFT-FE Mentors and Development leads (alphabetically) :									
+														
+ Sambit Das               - University of Michigan, USA
+ Vikram Gavini            - University of Michigan, USA
+ Phani Motamarri          - Indian Institute of Science, India
+ (A complete list of the many authors that have contributed to DFT-FE can be found in the authors file)
+==========================================================================================================
+ 	     Copyright (c) 2017-2025 The Regents of the University of Michigan and DFT-FE authors         
+ 			DFT-FE is published under [LGPL v2.1 or newer] 				
+==========================================================================================================
+==========================================================================================================
+set RESTART        = false
+set RESTART FOLDER = .
+set SOLVER MODE    = GS
+set USE GPU        = true
+set VERBOSITY      = 4
+subsection NEB
+  set ALLOW IMAGE FREEZING             = false
+  set BFGS STEP METHOD                 = QN
+  set ION RELAX FLAGS FILE             = 
+  set LBFGS HISTORY                    = 5
+  set MAXIMUM ION UPDATE STEP          = 0.5
+  set MAXIMUM NUMBER OF NEB ITERATIONS = 100
+  set MAXIMUM SPRING CONSTANT          = 5e-3
+  set MAX LINE SEARCH ITER             = 5
+  set MINIMUM SPRING CONSTANT          = 2e-3
+  set NEB COORDINATES FILE             = 
+  set NEB DOMAIN VECTORS FILE          = 
+  set NEB OPT SOLVER                   = LBFGS
+  set NUMBER OF IMAGES                 = 7
+  set PATH THRESHOLD                   = 5e-4
+end
+set KEEP SCRATCH FOLDER                             = false
+set MEM OPT MODE                                    = true
+set REPRODUCIBLE OUTPUT                             = false
+set WRITE STRUCTURE ENERGY FORCES DATA POST PROCESS = false
+subsection Boundary conditions
+  set CONSTRAINTS FROM SERIAL DOFHANDLER = false
+  set CONSTRAINTS PARALLEL CHECK         = false
+  set FLOATING NUCLEAR CHARGES           = true
+  set MULTIPOLE BOUNDARY CONDITIONS      = false
+  set PERIODIC1                          = true
+  set PERIODIC2                          = true
+  set PERIODIC3                          = false
+  set POINT WISE DIRICHLET CONSTRAINT    = false
+  set SELF POTENTIAL RADIUS              = 0.0
+  set SMEARED NUCLEAR CHARGES            = true
+  subsection External Electric Potential
+    set APPLIED POTENTIAL DIFFERENCE LEFT SURFACE VALUE           = 0.0
+    set APPLIED POTENTIAL DIFFERENCE VALUE                        = 0.0
+    set APPLIED POTENTIAL LEFT SURFACE POSITION                   = 0.0
+    set APPLIED POTENTIAL RIGHT SURFACE POSITION                  = 1.0
+    set INCLUDE EXTERNAL ELECTRIC POTENTIAL                       = true
+    set INCLUDE VSELF IN APPLIED POTENTIAL DIFFERENCE CONSTRAINTS = false
+    set POSITION OF SAW TOOTH POTENTIAL MAX                       = 0.9
+    set REGION OF SAW TOOTH POTENTIAL DECREASE                    = 0.2
+    set SLOPE OF EXTERNAL POTENTIAL                               = 0.0017
+    set TYPE OF EXTERNAL ELECTRIC POTENTIAL                       = SAWTOOTH_POTENTIAL
+  end
+end
+subsection Brillouin zone k point sampling options
+  set USE GROUP SYMMETRY         = false
+  set USE TIME REVERSAL SYMMETRY = true
+  set kPOINT RULE FILE           = 
+  subsection Monkhorst-Pack (MP) grid generation
+    set SAMPLING POINTS 1 = 10
+    set SAMPLING POINTS 2 = 10
+    set SAMPLING POINTS 3 = 1
+    set SAMPLING SHIFT 1  = 1
+    set SAMPLING SHIFT 2  = 1
+    set SAMPLING SHIFT 3  = 0
+  end
+end
+subsection DFT functional parameters
+  set AUX BASIS DATA                  = 
+  set AUX BASIS TYPE                  = FE
+  set EXCHANGE CORRELATION TYPE       = GGA-PBE
+  set MODEL XC INPUT FILE             = 
+  set NET CHARGE                      = 0.0
+  set PSEUDOPOTENTIAL CALCULATION     = true
+  set PSEUDOPOTENTIAL FILE NAMES LIST = pseudo.inp
+  set PSEUDO TESTS FLAG               = false
+  set PSP CUTOFF IMAGE CHARGES        = 15.0
+  set SPIN POLARIZATION               = 0
+  set TOTAL MAGNETIZATION             = 0.0
+  subsection CONFINING POTENTIAL parameters
+    set APPLY CONFINING POTENTIAL = false
+    set C PARAM                   = 1.0
+    set INNER RADIUS              = 17.0
+    set OUTER RADIUS              = 20.0
+    set W PARAM                   = 1.0
+  end
+  subsection Dispersion Correction
+    set CN CUTOFF                  = 40.0
+    set D3 ATM                     = false
+    set D3 DAMPING TYPE            = 3
+    set D4 MBD                     = false
+    set DAMPING PARAMETERS FILE    = 
+    set DISPERSION CORRECTION TYPE = 0
+    set THREE BODY CUTOFF          = 40.0
+    set TWO BODY CUTOFF            = 94.8683298050514
+  end
+  subsection Hubbard Parameters
+    set HUBBARD PARAMETERS FILE = 
+  end
+end
+subsection Finite element mesh parameters
+  set POLYNOMIAL ORDER                = 7
+  set POLYNOMIAL ORDER ELECTROSTATICS = 10
+  subsection Auto mesh generation parameters
+    set ATOM BALL RADIUS                  = 7.0
+    set AUTO ADAPT BASE MESH SIZE         = true
+    set BASE MESH SIZE                    = 0.0
+    set ERROR ESTIMATE WAVEFUNCTIONS      = 5
+    set GAUSSIAN CONSTANT FORCE GENERATOR = 0.75
+    set GAUSSIAN ORDER FORCE GENERATOR    = 4.0
+    set GAUSSIAN ORDER MOVE MESH TO ATOMS = 4.0
+    set INNER ATOM BALL RADIUS            = 0.0
+    set MESH ADAPTION                     = false
+    set MESH SIZES FILE                   = 
+    set MESH SIZE AROUND ATOM             = 1.0
+    set MESH SIZE AT ATOM                 = 0.0
+    set NUM LEVELS                        = 10
+    set TOLERANCE FOR MESH ADAPTION       = 1
+    set TOP FRAC                          = 0.1
+    set USE FLAT TOP GENERATOR            = false
+  end
+end
+subsection FunctionalTest
+  set TEST NAME = 
+end
+subsection GPU
+  set AUTO GPU BLOCK SIZES         = true
+  set FINE GRAINED GPU TIMINGS     = false
+  set SUBSPACE ROT FULL CPU MEM    = true
+  set USE DCCL                     = false
+  set USE ELPA GPU KERNEL          = false
+  set USE GPUDIRECT MPI ALL REDUCE = false
+end
+subsection Geometry
+  set ATOMIC COORDINATES FILE      = coordinates111.inp
+  set ATOMIC DISP COORDINATES FILE = 
+  set DOMAIN VECTORS FILE          = domainVectors111.inp
+  set NATOMS                       = 24
+  set NATOM TYPES                  = 2
+  subsection Optimization
+    set BFGS STEP METHOD           = QN
+    set CELL CONSTRAINT TYPE       = 12
+    set CELL OPT SOLVER            = LBFGS
+    set CELL STRESS                = false
+    set FORCE TOL                  = 1e-4
+    set ION FORCE                  = true
+    set ION OPT SOLVER             = LBFGS
+    set ION RELAX FLAGS FILE       = 
+    set LBFGS HISTORY              = 5
+    set MAXIMUM CELL UPDATE STEP   = 0.1
+    set MAXIMUM ION UPDATE STEP    = 0.5
+    set MAXIMUM OPTIMIZATION STEPS = 300
+    set MAXIMUM STAGGERED CYCLES   = 300
+    set MAX LINE SEARCH ITER       = 5
+    set NON SELF CONSISTENT FORCE  = false
+    set OPTIMIZATION MODE          = ION
+    set REUSE DENSITY              = 1
+    set REUSE WFC                  = true
+    set STRESS TOL                 = 1e-6
+    set USE PRECONDITIONER         = false
+  end
+end
+subsection Helmholtz problem parameters
+  set ABSOLUTE TOLERANCE HELMHOLTZ = 1e-10
+  set MAXIMUM ITERATIONS HELMHOLTZ = 10000
+end
+subsection Molecular Dynamics
+  set ATOMIC MASSES FILE          = 
+  set BOMD                        = false
+  set EXTRAPOLATE DENSITY         = 0
+  set MAX JACOBIAN RATIO FACTOR   = 1.5
+  set MAX WALL TIME               = 2592000.0
+  set NUMBER OF STEPS             = 1000
+  set STARTING TEMPERATURE        = 300.0
+  set TEMPERATURE CONTROLLER TYPE = NO_CONTROL
+  set THERMOSTAT TIME CONSTANT    = 100
+  set TIME STEP                   = 0.5
+  set TRACKING ATOMIC NO          = 0
+end
+subsection Parallelization
+  set BAND PARAL OPT           = true
+  set MPI ALLREDUCE BLOCK SIZE = 100.0
+  set NPBAND                   = 1
+  set NPKPT                    = 4
+end
+subsection Poisson problem parameters
+  set GPU MODE           = true
+  set MAXIMUM ITERATIONS = 20000
+  set TOLERANCE          = 1e-10
+  set VSELF GPU MODE     = true
+end
+subsection Post-processing Options
+  set DELTA ENERGY                                        = 0.01
+  set DOS SMEAR TEMPERATURE                               = 500
+  set NUMBER OF SAMPLING POINTS ALONG X                   = 501
+  set NUMBER OF SAMPLING POINTS ALONG Y                   = 501
+  set NUMBER OF SAMPLING POINTS ALONG Z                   = 501
+  set PRINT KINETIC ENERGY                                = false
+  set READ ATOMIC WFC PDOS FROM PSP FILE                  = false
+  set WRITE BANDS                                         = false
+  set WRITE DENSITY FE MESH                               = true
+  set WRITE DENSITY OF STATES                             = false
+  set WRITE DENSITY QUAD DATA                             = false
+  set WRITE LOCALIZATION LENGTHS                          = false
+  set WRITE LOCAL DENSITY OF STATES                       = false
+  set WRITE PLANAR AVERAGE TOTAL ELECTROSTATICS POTENTIAL = false
+  set WRITE PLANAR AVERAGE VEFF POTENTIAL                 = false
+  set WRITE PROJECTED DENSITY OF STATES                   = false
+  set WRITE TOTAL ELECTROSTATICS POTENTIAL                = true
+  set WRITE WFC FE MESH                                   = false
+  set XY-PLANAR AVERAGE OF BARE POTENTIAL                 = false
+  set XY-PLANAR AVERAGE OF ELECTRON DENSITY               = false
+  set XY-PLANAR AVERAGE OF ELECTROSTATIC POTENTIAL        = false
+end
+subsection SCF Checkpointing and Restart
+  set LOAD RHO DATA         = false
+  set RESTART SP FROM NO SP = false
+  set SAVE RHO DATA         = false
+end
+subsection SCF parameters
+  set ADAPT ANDERSON MIXING PARAMETER = false
+  set COMPUTE ENERGY EACH ITER        = false
+  set CONSTRAINT MAGNETIZATION        = false
+  set ENERGY TOLERANCE                = 1e-07
+  set KERKER MIXING PARAMETER         = 0.05
+  set MAXIMUM ITERATIONS              = 200
+  set MIXING HISTORY                  = 10
+  set MIXING METHOD                   = ANDERSON
+  set MIXING PARAMETER                = 0.15
+  set RESTA FERMI WAVEVECTOR          = 5.81
+  set RESTA SCREENING LENGTH          = 6.61
+  set SPIN MIXING ENHANCEMENT FACTOR  = 1.0
+  set STARTING WFC                    = RANDOM
+  set TEMPERATURE                     = 5
+  set TOLERANCE                       = 1e-7
+  set USE ENERGY RESIDUAL METRIC      = false
+  subsection Eigen-solver parameters
+    set ALGO                                                 = NORMAL
+    set ALLOW MULTIPLE PASSES POST FIRST SCF                 = true
+    set CHEBYSHEV FILTER TOLERANCE                           = 0.0
+    set CHEBYSHEV POLYNOMIAL DEGREE                          = 0
+    set CHEBYSHEV POLYNOMIAL DEGREE SCALING FACTOR FIRST SCF = 1.34
+    set CHEBY WFC BLOCK SIZE                                 = 200
+    set HIGHEST STATE OF INTEREST FOR CHEBYSHEV FILTERING    = 0
+    set NUMBER OF CORE EIGEN STATES FOR MIXED PREC RR        = 0
+    set NUMBER OF KOHN-SHAM WAVEFUNCTIONS                    = 0
+    set ORTHOGONALIZATION TYPE                               = Auto
+    set OVERLAP COMPUTE COMMUN CHEBY                         = true
+    set OVERLAP COMPUTE COMMUN ORTHO RR                      = true
+    set RESTRICT TO SINGLE FILTER PASS                       = false
+    set REUSE LANCZOS UPPER BOUND                            = false
+    set SCALAPACKPROCS                                       = 0
+    set SCALAPACK BLOCK SIZE                                 = 0
+    set SUBSPACE PROJ SHEP GPU                               = true
+    set SUBSPACE ROT DOFS BLOCK SIZE                         = 10000
+    set TENSOR OP TYPE SINGLE PREC CHEBY                     = FP32
+    set USE APPROXIMATE OVERLAP MATRIX                       = true
+    set USE ELPA                                             = true
+    set USE MIXED PREC CGS O                                 = false
+    set USE MIXED PREC CGS SR                                = false
+    set USE MIXED PREC COMMUN ONLY XTX XTHX                  = false
+    set USE MIXED PREC RR_SR                                 = false
+    set USE RE-FORMULATED CHFSI                              = true
+    set USE SINGLE PREC CHEBY                                = false
+    set USE SINGLE PREC COMMUN CHEBY                         = false
+    set WFC BLOCK SIZE                                       = 400
+  end
+  subsection LOW RANK DIELECM PRECOND
+    set ADAPTIVE RANK REL TOL            = 0.3
+    set BETA TOL                         = 0.1
+    set ESTIMATE JAC CONDITION NO        = false
+    set METHOD SUB TYPE                  = ADAPTIVE
+    set POISSON SOLVER ABS TOL           = 1e-6
+    set STARTING NORM LARGE DAMPING      = 2.0
+    set USE SINGLE PREC DENSITY RESPONSE = false
+  end
+end
+Setting ORTHOGONALIZATION TYPE=CGS for pseudopotential calculations 
+=================================MPI Parallelization=========================================
+Total number of MPI tasks: 96
+k-point parallelization processor groups: 4
+Band parallelization processor groups: 1
+Number of MPI tasks for finite-element domain decomposition: 24
+============================================================================================
+Threads per MPI task: 1
+number of atoms: 24
+number of atoms types: 2
+ Warning: User has requested the number of Kohn-Sham wavefunctions to be less than orequal to half the number of electrons in the system. Setting the Kohn-Sham wavefunctionsto half the number of electrons with a 20 percent buffer to avoid convergence issues inSCF iterations
+ Setting the number of Kohn-Sham wave functions to be 196
+ Setting the number of Kohn-Sham wave functions for Device run to be: 200
+ Setting CHEBY WFC BLOCK SIZE for Device run to be 100
+ Setting WFC BLOCK SIZE for Device run to be 100
+
+Reading Pseudo-potential data for each atom from the list given in : pseudo.inp
+ Reading Pseudopotential File: Ga.upf, with atomic number: 31, and has data for nonlinear core-correction
+ Reading Pseudopotential File: As.upf, with atomic number: 33, and has data for nonlinear core-correction
+Total number of k-points 100
+-----------Reciprocal vectors along which the MP grid is to be generated-------------
+G1 : 4.088692002908133616e-01 2.360607428581041889e-01 0.000000000000000000e+00
+G2 : -0.000000000000000000e+00 4.721214858390988534e-01 0.000000000000000000e+00
+G3 : 0.000000000000000000e+00 0.000000000000000000e+00 0.000000000000000000e+00
+ Only time reversal symmetry to be used 
+ kpoint 0 numSymmUnderGroup 2
+ kpoint 1 numSymmUnderGroup 2
+ kpoint 2 numSymmUnderGroup 2
+ kpoint 3 numSymmUnderGroup 2
+ kpoint 4 numSymmUnderGroup 2
+ kpoint 5 numSymmUnderGroup 2
+ kpoint 6 numSymmUnderGroup 2
+ kpoint 7 numSymmUnderGroup 2
+ kpoint 8 numSymmUnderGroup 2
+ kpoint 9 numSymmUnderGroup 2
+ kpoint 10 numSymmUnderGroup 2
+ kpoint 11 numSymmUnderGroup 2
+ kpoint 12 numSymmUnderGroup 2
+ kpoint 13 numSymmUnderGroup 2
+ kpoint 14 numSymmUnderGroup 2
+ kpoint 15 numSymmUnderGroup 2
+ kpoint 16 numSymmUnderGroup 2
+ kpoint 17 numSymmUnderGroup 2
+ kpoint 18 numSymmUnderGroup 2
+ kpoint 19 numSymmUnderGroup 2
+ kpoint 20 numSymmUnderGroup 2
+ kpoint 21 numSymmUnderGroup 2
+ kpoint 22 numSymmUnderGroup 2
+ kpoint 23 numSymmUnderGroup 2
+ kpoint 24 numSymmUnderGroup 2
+ kpoint 25 numSymmUnderGroup 2
+ kpoint 26 numSymmUnderGroup 2
+ kpoint 27 numSymmUnderGroup 2
+ kpoint 28 numSymmUnderGroup 2
+ kpoint 29 numSymmUnderGroup 2
+ kpoint 30 numSymmUnderGroup 2
+ kpoint 31 numSymmUnderGroup 2
+ kpoint 32 numSymmUnderGroup 2
+ kpoint 33 numSymmUnderGroup 2
+ kpoint 34 numSymmUnderGroup 2
+ kpoint 35 numSymmUnderGroup 2
+ kpoint 36 numSymmUnderGroup 2
+ kpoint 37 numSymmUnderGroup 2
+ kpoint 38 numSymmUnderGroup 2
+ kpoint 39 numSymmUnderGroup 2
+ kpoint 40 numSymmUnderGroup 2
+ kpoint 41 numSymmUnderGroup 2
+ kpoint 42 numSymmUnderGroup 2
+ kpoint 43 numSymmUnderGroup 2
+ kpoint 44 numSymmUnderGroup 2
+ kpoint 45 numSymmUnderGroup 2
+ kpoint 46 numSymmUnderGroup 2
+ kpoint 47 numSymmUnderGroup 2
+ kpoint 48 numSymmUnderGroup 2
+ kpoint 49 numSymmUnderGroup 2
+ 2 symmetries used to reduce BZ 
+1.000000000000000000e+00  0.000000000000000000e+00  0.000000000000000000e+00
+0.000000000000000000e+00  1.000000000000000000e+00  0.000000000000000000e+00
+0.000000000000000000e+00  0.000000000000000000e+00  1.000000000000000000e+00
+ 2  
+1.000000000000000000e+00  -0.000000000000000000e+00  -0.000000000000000000e+00
+-0.000000000000000000e+00  1.000000000000000000e+00  -0.000000000000000000e+00
+-0.000000000000000000e+00  -0.000000000000000000e+00  1.000000000000000000e+00
+ 2  
+ number of irreducible k-points 50
+Reduced k-Point-coordinates and weights: 
+Scalapack Matrix created, row procs: 2
+Scalapack Matrix created, row procs: 2
+      1:       0.05000       0.05000      0.00000      0.02000
+      2:       0.05000       0.15000      0.00000      0.02000
+      3:       0.05000       0.25000      0.00000      0.02000
+      4:       0.05000       0.35000      0.00000      0.02000
+      5:       0.05000       0.45000      0.00000      0.02000
+      6:       0.05000      -0.45000      0.00000      0.02000
+      7:       0.05000      -0.35000      0.00000      0.02000
+      8:       0.05000      -0.25000      0.00000      0.02000
+      9:       0.05000      -0.15000      0.00000      0.02000
+     10:       0.05000      -0.05000      0.00000      0.02000
+     11:       0.15000       0.05000      0.00000      0.02000
+     12:       0.15000       0.15000      0.00000      0.02000
+     13:       0.15000       0.25000      0.00000      0.02000
+     14:       0.15000       0.35000      0.00000      0.02000
+     15:       0.15000       0.45000      0.00000      0.02000
+     16:       0.15000      -0.45000      0.00000      0.02000
+     17:       0.15000      -0.35000      0.00000      0.02000
+     18:       0.15000      -0.25000      0.00000      0.02000
+     19:       0.15000      -0.15000      0.00000      0.02000
+     20:       0.15000      -0.05000      0.00000      0.02000
+     21:       0.25000       0.05000      0.00000      0.02000
+     22:       0.25000       0.15000      0.00000      0.02000
+     23:       0.25000       0.25000      0.00000      0.02000
+     24:       0.25000       0.35000      0.00000      0.02000
+     25:       0.25000       0.45000      0.00000      0.02000
+     26:       0.25000      -0.45000      0.00000      0.02000
+     27:       0.25000      -0.35000      0.00000      0.02000
+     28:       0.25000      -0.25000      0.00000      0.02000
+     29:       0.25000      -0.15000      0.00000      0.02000
+     30:       0.25000      -0.05000      0.00000      0.02000
+     31:       0.35000       0.05000      0.00000      0.02000
+     32:       0.35000       0.15000      0.00000      0.02000
+     33:       0.35000       0.25000      0.00000      0.02000
+     34:       0.35000       0.35000      0.00000      0.02000
+     35:       0.35000       0.45000      0.00000      0.02000
+     36:       0.35000      -0.45000      0.00000      0.02000
+     37:       0.35000      -0.35000      0.00000      0.02000
+     38:       0.35000      -0.25000      0.00000      0.02000
+     39:       0.35000      -0.15000      0.00000      0.02000
+     40:       0.35000      -0.05000      0.00000      0.02000
+     41:       0.45000       0.05000      0.00000      0.02000
+     42:       0.45000       0.15000      0.00000      0.02000
+     43:       0.45000       0.25000      0.00000      0.02000
+     44:       0.45000       0.35000      0.00000      0.02000
+     45:       0.45000       0.45000      0.00000      0.02000
+     46:       0.45000      -0.45000      0.00000      0.02000
+     47:       0.45000      -0.35000      0.00000      0.02000
+     48:       0.45000      -0.25000      0.00000      0.02000
+     49:       0.45000      -0.15000      0.00000      0.02000
+     50:       0.45000      -0.05000      0.00000      0.02000
+Atleast one atom has pseudopotential with nonlinear core correction
+Scalapack Matrix created, row procs: 2
+Scalapack Matrix created, row procs: 2
+Atomic system initialization, wall time: 0.373348s.
+-----------Simulation Domain bounding vectors (lattice vectors in fully periodic case)-------------
+v1 : 1.536722576000000018e+01 0.000000000000000000e+00 0.000000000000000000e+00
+v2 : -7.683612877999999924e+00 1.330840788999999980e+01 0.000000000000000000e+00
+v3 : 0.000000000000000000e+00 0.000000000000000000e+00 7.551271171000000493e+01
+-----------------------------------------------------------------------------------------
+-----Fractional coordinates of atoms------ 
+AtomId 0:  0.000000000000000000e+00 0.000000000000000000e+00 3.857641600000000226e-01
+AtomId 1:  3.333334029999999726e-01 6.666668059999999452e-01 4.688447800000000165e-01
+AtomId 2:  6.666666869999999800e-01 3.333333130000000200e-01 5.519253990000000387e-01
+AtomId 3:  8.333333130000000200e-01 1.666666569999999958e-01 4.688447800000000165e-01
+AtomId 4:  1.666665820000000076e-01 8.333333130000000200e-01 5.519253990000000387e-01
+AtomId 5:  4.999999399999999761e-01 5.000000000000000000e-01 3.857641600000000226e-01
+AtomId 6:  8.333332540000000233e-01 6.666668059999999452e-01 4.688447800000000165e-01
+AtomId 7:  1.666665380000000030e-01 3.333333130000000200e-01 5.519253990000000387e-01
+AtomId 8:  5.000000000000000000e-01 0.000000000000000000e+00 3.857641600000000226e-01
+AtomId 9:  3.333332840000000075e-01 1.666666569999999958e-01 4.688447800000000165e-01
+AtomId 10:  6.666666869999999800e-01 8.333333130000000200e-01 5.519253990000000387e-01
+AtomId 11:  0.000000000000000000e+00 5.000000000000000000e-01 3.857641600000000226e-01
+AtomId 12:  8.333333130000000200e-01 1.666666569999999958e-01 5.311552520000000222e-01
+AtomId 13:  1.666665820000000076e-01 8.333333130000000200e-01 6.142358409999999491e-01
+AtomId 14:  4.999999399999999761e-01 5.000000000000000000e-01 4.480746319999999727e-01
+AtomId 15:  0.000000000000000000e+00 0.000000000000000000e+00 4.480746319999999727e-01
+AtomId 16:  3.333334029999999726e-01 6.666668059999999452e-01 5.311552520000000222e-01
+AtomId 17:  6.666666869999999800e-01 3.333333130000000200e-01 6.142358409999999491e-01
+AtomId 18:  3.333332840000000075e-01 1.666666569999999958e-01 5.311552520000000222e-01
+AtomId 19:  6.666666869999999800e-01 8.333333130000000200e-01 6.142358409999999491e-01
+AtomId 20:  0.000000000000000000e+00 5.000000000000000000e-01 4.480746319999999727e-01
+AtomId 21:  8.333332540000000233e-01 6.666668059999999452e-01 5.311552520000000222e-01
+AtomId 22:  1.666665380000000030e-01 3.333333130000000200e-01 6.142358409999999491e-01
+AtomId 23:  5.000000000000000000e-01 0.000000000000000000e+00 4.480746319999999727e-01
+-----------------------------------------------------------------------------------------
+Number Image Charges  178
+-------------------k points reduced coordinates and weights-----------------------------
+ [5.000000000000000278e-02, 5.000000000000000278e-02, 0.000000000000000000e+00] 2.000000000000000042e-02
+ [5.000000000000000278e-02, 1.500000000000000222e-01, 0.000000000000000000e+00] 2.000000000000000042e-02
+ [5.000000000000000278e-02, 2.500000000000000000e-01, 0.000000000000000000e+00] 2.000000000000000042e-02
+ [5.000000000000000278e-02, 3.500000000000000333e-01, 0.000000000000000000e+00] 2.000000000000000042e-02
+ [5.000000000000000278e-02, 4.500000000000000111e-01, 0.000000000000000000e+00] 2.000000000000000042e-02
+ [5.000000000000000278e-02, -4.499999999999999556e-01, 0.000000000000000000e+00] 2.000000000000000042e-02
+ [5.000000000000000278e-02, -3.499999999999999778e-01, 0.000000000000000000e+00] 2.000000000000000042e-02
+ [5.000000000000000278e-02, -2.500000000000000000e-01, 0.000000000000000000e+00] 2.000000000000000042e-02
+ [5.000000000000000278e-02, -1.499999999999999112e-01, 0.000000000000000000e+00] 2.000000000000000042e-02
+ [5.000000000000000278e-02, -4.999999999999993339e-02, 0.000000000000000000e+00] 2.000000000000000042e-02
+ [1.500000000000000222e-01, 5.000000000000000278e-02, 0.000000000000000000e+00] 2.000000000000000042e-02
+ [1.500000000000000222e-01, 1.500000000000000222e-01, 0.000000000000000000e+00] 2.000000000000000042e-02
+ [1.500000000000000222e-01, 2.500000000000000000e-01, 0.000000000000000000e+00] 2.000000000000000042e-02
+-----------------------------------------------------------------------------------------
+-------------------k points cartesian coordinates and weights-----------------------------
+ [2.044346001454067085e-02, 3.540911143486015489e-02, 0.000000000000000000e+00] 2.000000000000000042e-02
+ [2.044346001454067085e-02, 8.262126001877004300e-02, 0.000000000000000000e+00] 2.000000000000000042e-02
+ [2.044346001454067085e-02, 1.298334086026799172e-01, 0.000000000000000000e+00] 2.000000000000000042e-02
+ [2.044346001454067085e-02, 1.770455571865898192e-01, 0.000000000000000000e+00] 2.000000000000000042e-02
+ [2.044346001454067085e-02, 2.242577057704996935e-01, 0.000000000000000000e+00] 2.000000000000000042e-02
+ [2.044346001454067085e-02, -2.006516314846892579e-01, 0.000000000000000000e+00] 2.000000000000000042e-02
+ [2.044346001454067085e-02, -1.534394829007793837e-01, 0.000000000000000000e+00] 2.000000000000000042e-02
+ [2.044346001454067085e-02, -1.062273343168695094e-01, 0.000000000000000000e+00] 2.000000000000000042e-02
+ [2.044346001454067085e-02, -5.901518573295957276e-02, 0.000000000000000000e+00] 2.000000000000000042e-02
+ [2.044346001454067085e-02, -1.180303714904970200e-02, 0.000000000000000000e+00] 2.000000000000000042e-02
+ [6.133038004362201256e-02, 5.901518572067057655e-02, 0.000000000000000000e+00] 2.000000000000000042e-02
+ [6.133038004362201256e-02, 1.062273343045804785e-01, 0.000000000000000000e+00] 2.000000000000000042e-02
+ [6.133038004362201256e-02, 1.534394828884903528e-01, 0.000000000000000000e+00] 2.000000000000000042e-02
+-----------------------------------------------------------------------------------------
+image charges and k point generation, wall time: 0.122798s.
+Minimum distance between atoms: 4.705229216818772819e+00
+Periodic Face Normals 1: 1.004953968316659484e+03 5.802104441476574266e+02 -0.000000000000000000e+00
+Periodic Face Normals 2: 0.000000000000000000e+00 1.160420888597365774e+03 0.000000000000000000e+00
+Periodic Face Normals 3: 0.000000000000000000e+00 -0.000000000000000000e+00 2.045133085517952338e+02
+Periodic Facepairs size: 608
+
+Coarse triangulation number of elements: 2432
+refinement in progress, level: 0
+Hanging node and periodic constraints parallel consistency achieved.
+Triangulation generation summary: 
+ num elements: 9264, num refinement levels: 1, min element length: 9.604516097290756171e-01, max element length: 1.920903219458158340e+00
+ numParallelCells: 9264
+Periodic Face Normals 1: 1.004953968316659484e+03 5.802104441476574266e+02 -0.000000000000000000e+00
+Periodic Face Normals 2: 0.000000000000000000e+00 1.160420888597365774e+03 0.000000000000000000e+00
+Periodic Face Normals 3: 0.000000000000000000e+00 -0.000000000000000000e+00 2.045133085517952338e+02
+Periodic Facepairs size: 608
+
+Coarse triangulation number of elements: 2432
+refinement in progress, level: 0
+Hanging node and periodic constraints parallel consistency achieved.
+Triangulation generation summary: 
+ num elements: 9264, num refinement levels: 1, min element length: 9.604516097290756171e-01, max element length: 1.920903219458158340e+00
+ numParallelCells: 9264
+mesh generation, wall time: 0.717304s.
+
+Mesh generation completed, Current maximum memory usage across all processors: 1.542917251586914062e+01 GB out of 5.031980056762695312e+02
+
+
+Mesh generation completed, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+Mesh generation completed, Current maximum memory usage across all processors: 1.811766815185546875e+01 GB out of 5.031979942321777344e+02
+
+
+Mesh generation completed, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+Mesh generation completed, Current maximum memory usage across all processors: 1.589555740356445312e+01 GB out of 5.031980094909667969e+02
+
+
+Mesh generation completed, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+Mesh generation completed, Current maximum memory usage across all processors: 2.068680572509765625e+01 GB out of 5.031979789733886719e+02
+
+
+Mesh generation completed, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+Inititialization of meshmovement class objects completed, Current maximum memory usage across all processors: 1.542917251586914062e+01 GB out of 5.031980056762695312e+02
+
+
+Inititialization of meshmovement class objects completed, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+Inititialization of meshmovement class objects completed, Current maximum memory usage across all processors: 2.068704605102539062e+01 GB out of 5.031979789733886719e+02
+
+
+Inititialization of meshmovement class objects completed, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+Inititialization of meshmovement class objects completed, Current maximum memory usage across all processors: 1.589555740356445312e+01 GB out of 5.031980094909667969e+02
+
+
+Inititialization of meshmovement class objects completed, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+Inititialization of meshmovement class objects completed, Current maximum memory usage across all processors: 1.811766815185546875e+01 GB out of 5.031979942321777344e+02
+
+
+Inititialization of meshmovement class objects completed, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+Distributed dofs, Current maximum memory usage across all processors: 1.812439727783203125e+01 GB out of 5.031979942321777344e+02
+
+
+Distributed dofs, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+Distributed dofs, Current maximum memory usage across all processors: 1.543660354614257812e+01 GB out of 5.031980056762695312e+02
+
+
+Distributed dofs, Current maximum memory usage across all processors: 1.589699935913085938e+01 GB out of 5.031980094909667969e+02
+
+
+Distributed dofs, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+Distributed dofs, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+Distributed dofs, Current maximum memory usage across all processors: 2.071011734008789062e+01 GB out of 5.031979789733886719e+02
+
+
+Distributed dofs, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+Extracted indices, Current maximum memory usage across all processors: 1.837397766113281250e+01 GB out of 5.031979942321777344e+02
+
+
+Extracted indices, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+Extracted indices, Current maximum memory usage across all processors: 1.568275833129882812e+01 GB out of 5.031980056762695312e+02
+
+
+Extracted indices, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+Extracted indices, Current maximum memory usage across all processors: 1.614318466186523438e+01 GB out of 5.031980094909667969e+02
+
+
+Extracted indices, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+Extracted indices, Current maximum memory usage across all processors: 2.102458572387695312e+01 GB out of 5.031979789733886719e+02
+
+
+Extracted indices, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+Created the basic constraint matrices, Current maximum memory usage across all processors: 1.928505706787109375e+01 GB out of 5.031979942321777344e+02
+
+
+Created the basic constraint matrices, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+Created the basic constraint matrices, Current maximum memory usage across all processors: 2.127807998657226562e+01 GB out of 5.031979789733886719e+02
+
+
+Created the basic constraint matrices, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+Created the basic constraint matrices, Current maximum memory usage across all processors: 1.702684783935546875e+01 GB out of 5.031980094909667969e+02
+
+
+Created the basic constraint matrices, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+Force initUnmoved, Current maximum memory usage across all processors: 1.928625869750976562e+01 GB out of 5.031979942321777344e+02
+
+
+Force initUnmoved, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+Created the basic constraint matrices, Current maximum memory usage across all processors: 1.659360122680664062e+01 GB out of 5.031980056762695312e+02
+
+
+Created the basic constraint matrices, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+Force initUnmoved, Current maximum memory usage across all processors: 2.127807998657226562e+01 GB out of 5.031979789733886719e+02
+
+
+Force initUnmoved, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+initUnmovedTriangulation completed, Current maximum memory usage across all processors: 1.928625869750976562e+01 GB out of 5.031979942321777344e+02
+
+
+initUnmovedTriangulation completed, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+moveMeshToAtoms completed, Current maximum memory usage across all processors: 1.928625869750976562e+01 GB out of 5.031979942321777344e+02
+
+
+moveMeshToAtoms completed, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+initUnmovedTriangulation completed, Current maximum memory usage across all processors: 2.127807998657226562e+01 GB out of 5.031979789733886719e+02
+
+
+initUnmovedTriangulation completed, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+moveMeshToAtoms completed, Current maximum memory usage across all processors: 2.127807998657226562e+01 GB out of 5.031979789733886719e+02
+
+
+moveMeshToAtoms completed, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+Force initUnmoved, Current maximum memory usage across all processors: 1.702756881713867188e+01 GB out of 5.031980094909667969e+02
+
+
+Force initUnmoved, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+initUnmovedTriangulation completed, Current maximum memory usage across all processors: 1.702756881713867188e+01 GB out of 5.031980094909667969e+02
+
+
+initUnmovedTriangulation completed, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+moveMeshToAtoms completed, Current maximum memory usage across all processors: 1.702756881713867188e+01 GB out of 5.031980094909667969e+02
+
+
+moveMeshToAtoms completed, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+Force initUnmoved, Current maximum memory usage across all processors: 1.659456253051757812e+01 GB out of 5.031980056762695312e+02
+
+
+Force initUnmoved, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+unmoved setup, wall time: 1.04759s.
+
+initUnmovedTriangulation completed, Current maximum memory usage across all processors: 1.659456253051757812e+01 GB out of 5.031980056762695312e+02
+
+
+initUnmovedTriangulation completed, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+moveMeshToAtoms completed, Current maximum memory usage across all processors: 1.659456253051757812e+01 GB out of 5.031980056762695312e+02
+
+
+moveMeshToAtoms completed, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+Dofs distributed again, Current maximum memory usage across all processors: 1.928625869750976562e+01 GB out of 5.031979942321777344e+02
+
+
+
+Dofs distributed again, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+Finite element mesh information
+-------------------------------------------------
+FE interpolating polynomial order for Kohn-Sham eigenvalue problem: 7
+FE interpolating polynomial order for electrostatics solve: 10
+FE interpolating polynomial order for nodal electron density computation: 10
+number of elements: 9264
+number of degrees of freedom for the Kohn-Sham eigenvalue problem : 3276238
+Minimum mesh size: 9.604516097290756171e-01
+-------------------------------------------------
+
+-----------------------------------------------------------------------------
+Rough estimate of peak memory requirement (RAM) total: 4.890202527999999802e+02 GB.
+Rough estimate of peak memory requirement (RAM) per MPI task: 2.037584386666666703e+01 GB.
+DFT-FE Message: many of the memory optimizations implemented
+in DFT-FE are useful only for larger system sizes.
+-----------------------------------------------------------------------------
+
+Dofs distributed again, Current maximum memory usage across all processors: 1.659456253051757812e+01 GB out of 5.031980056762695312e+02
+
+
+Dofs distributed again, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+Dofs distributed again, Current maximum memory usage across all processors: 2.127807998657226562e+01 GB out of 5.031979789733886719e+02
+
+
+Dofs distributed again, Current maximum memory usage across all processors: 1.702804946899414062e+01 GB out of 5.031980094909667969e+02
+
+
+Dofs distributed again, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+Dofs distributed again, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+initBoundaryConditions: Time taken for creating dofhandler related objects: 1.772555639999922050e-01
+
+Created support points, Current maximum memory usage across all processors: 1.928697967529296875e+01 GB out of 5.031979942321777344e+02
+
+
+Created support points, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+Created support points, Current maximum memory usage across all processors: 1.659556198120117188e+01 GB out of 5.031980056762695312e+02
+
+
+Created support points, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+Created support points, Current maximum memory usage across all processors: 1.702901077270507812e+01 GB out of 5.031980094909667969e+02
+
+
+Created support points, Current maximum memory usage across all processors: 2.127807998657226562e+01 GB out of 5.031979789733886719e+02
+
+
+Created support points, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+Created support points, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+Called force init moved, Current maximum memory usage across all processors: 1.659556198120117188e+01 GB out of 5.031980056762695312e+02
+
+
+Called force init moved, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+Called force init moved, Current maximum memory usage across all processors: 2.127807998657226562e+01 GB out of 5.031979789733886719e+02
+
+
+Called force init moved, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+Called force init moved, Current maximum memory usage across all processors: 1.928697967529296875e+01 GB out of 5.031979942321777344e+02
+
+initBoundaryConditions: Time taken for force init moved: 2.427114999989044009e-03
+
+Called force init moved, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+Called force init moved, Current maximum memory usage across all processors: 1.702901077270507812e+01 GB out of 5.031980094909667969e+02
+
+
+Called force init moved, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+initBoundaryConditions: Time taken for matrix free reinit: 1.062854322900000170e+01
+
+Called matrix free reinit, Current maximum memory usage across all processors: 2.858835220336914062e+01 GB out of 5.031979942321777344e+02
+
+
+Called matrix free reinit, Current maximum memory usage across all processors: 2.622671508789062500e+01 GB out of 5.031980094909667969e+02
+
+
+Called matrix free reinit, Current maximum GPU memory usage across all tasks: 5.183837890625000000e+00 GB out of 3.939385986328125000e+01
+
+
+Called matrix free reinit, Current maximum memory usage across all processors: 2.589340591430664062e+01 GB out of 5.031980056762695312e+02
+
+
+Called matrix free reinit, Current maximum GPU memory usage across all tasks: 5.183837890625000000e+00 GB out of 3.939385986328125000e+01
+
+
+Called matrix free reinit, Current maximum GPU memory usage across all tasks: 5.183837890625000000e+00 GB out of 3.939385986328125000e+01
+
+
+Called matrix free reinit, Current maximum memory usage across all processors: 3.061929702758789062e+01 GB out of 5.031979789733886719e+02
+
+
+Called matrix free reinit, Current maximum GPU memory usage across all tasks: 5.183837890625000000e+00 GB out of 3.939385986328125000e+01
+
+Volume of the domain (Bohr^3): 1.544335450952851716e+04
+Determining the ball radius around the atom for nuclear self-potential solve... 
+...Adaptively set ball radius: 4.000000000000000000e+00
+number bins: 16
+bin 0: number of global atoms: 2
+Reduced ball radius for setting boundary conditions taking hanging nodes into consideration: 4.000000000000000000e+00
+bin 1: number of global atoms: 2
+Reduced ball radius for setting boundary conditions taking hanging nodes into consideration: 4.000000000000000000e+00
+bin 2: number of global atoms: 2
+Reduced ball radius for setting boundary conditions taking hanging nodes into consideration: 4.000000000000000000e+00
+bin 3: number of global atoms: 2
+Reduced ball radius for setting boundary conditions taking hanging nodes into consideration: 4.000000000000000000e+00
+bin 4: number of global atoms: 2
+Reduced ball radius for setting boundary conditions taking hanging nodes into consideration: 4.000000000000000000e+00
+bin 5: number of global atoms: 2
+Reduced ball radius for setting boundary conditions taking hanging nodes into consideration: 4.000000000000000000e+00
+bin 6: number of global atoms: 2
+Reduced ball radius for setting boundary conditions taking hanging nodes into consideration: 4.000000000000000000e+00
+bin 7: number of global atoms: 2
+Reduced ball radius for setting boundary conditions taking hanging nodes into consideration: 4.000000000000000000e+00
+bin 8: number of global atoms: 1
+Reduced ball radius for setting boundary conditions taking hanging nodes into consideration: 4.000000000000000000e+00
+bin 9: number of global atoms: 1
+Reduced ball radius for setting boundary conditions taking hanging nodes into consideration: 4.000000000000000000e+00
+bin 10: number of global atoms: 1
+Reduced ball radius for setting boundary conditions taking hanging nodes into consideration: 4.000000000000000000e+00
+bin 11: number of global atoms: 1
+Reduced ball radius for setting boundary conditions taking hanging nodes into consideration: 4.000000000000000000e+00
+bin 12: number of global atoms: 1
+Reduced ball radius for setting boundary conditions taking hanging nodes into consideration: 4.000000000000000000e+00
+bin 13: number of global atoms: 1
+Reduced ball radius for setting boundary conditions taking hanging nodes into consideration: 4.000000000000000000e+00
+bin 14: number of global atoms: 1
+Reduced ball radius for setting boundary conditions taking hanging nodes into consideration: 4.000000000000000000e+00
+bin 15: number of global atoms: 1
+Reduced ball radius for setting boundary conditions taking hanging nodes into consideration: 4.000000000000000000e+00
+
+
++-------------------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start              | 5.276e+01s |            |
+|                                                       |            |            |
+| Section                                   | no. calls |  wall time | % of total |
++-------------------------------------------+-----------+------------+------------+
+| create bins: find nodes inside atom balls |         1 | 1.505e-01s |  2.85e-01% |
+| create bins: initial overheads            |         1 | 1.663e-01s |  3.15e-01% |
+| create bins: local interaction maps       |         1 | 1.057e-03s | 0.000e+00% |
+| create bins: put in bins                  |         1 | 2.782e-03s | 0.000e+00% |
+| create bins: sanity check                 |         1 | 1.676e+00s |  3.18e+00% |
+| create bins: set boundary conditions      |         1 | 5.075e+01s |  9.62e+01% |
++-------------------------------------------+-----------+------------+------------+
+
+Create atom bins, wall time: 52.7713s.
+updateAtomPositionsAndMoveMesh: initBoundaryConditions: Time taken for bins update: 5.281258178400000247e+01
+initBoundaryConditions: Time taken for initpRefinedObjects: 5.843098900300000764e+01
+moved setup, wall time: 69.248s.
+
+initBoundaryConditions completed, Current maximum memory usage across all processors: 6.566241836547851562e+01 GB out of 5.031980056762695312e+02
+
+
+initBoundaryConditions completed, Current maximum memory usage across all processors: 6.989706039428710938e+01 GB out of 5.031979789733886719e+02
+
+
+initBoundaryConditions completed, Current maximum GPU memory usage across all tasks: 1.698657226562500000e+01 GB out of 3.939385986328125000e+01
+
+
+initBoundaryConditions completed, Current maximum GPU memory usage across all tasks: 1.698657226562500000e+01 GB out of 3.939385986328125000e+01
+
+
+initBoundaryConditions completed, Current maximum memory usage across all processors: 6.649702835083007812e+01 GB out of 5.031979942321777344e+02
+
+
+initBoundaryConditions completed, Current maximum GPU memory usage across all tasks: 1.698657226562500000e+01 GB out of 3.939385986328125000e+01
+
+
+initBoundaryConditions completed, Current maximum memory usage across all processors: 6.616778564453125000e+01 GB out of 5.031980094909667969e+02
+
+
+initBoundaryConditions completed, Current maximum GPU memory usage across all tasks: 1.698657226562500000e+01 GB out of 3.939385986328125000e+01
+

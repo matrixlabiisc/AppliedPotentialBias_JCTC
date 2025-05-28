@@ -1,0 +1,59 @@
+set VERBOSITY=4
+set USE GPU=true
+subsection Geometry
+  set NATOMS=288
+  set NATOM TYPES=4
+  set ATOMIC COORDINATES FILE      = atomsFracCoordCurrent.chk
+  set DOMAIN VECTORS FILE = domainVectorsLaTermination.inp
+  subsection Optimization
+    set ION FORCE = true
+set OPTIMIZATION MODE    = ION
+  end
+  end
+
+subsection Boundary conditions
+  set PERIODIC1                       = true
+  set PERIODIC2                       = true
+  set PERIODIC3                       = false
+    subsection External Electric Potential
+    set APPLIED POTENTIAL DIFFERENCE VALUE                        = 0.07125648
+    set APPLIED POTENTIAL LEFT SURFACE POSITION                   = 0.107329419
+    set APPLIED POTENTIAL RIGHT SURFACE POSITION                  = 0.892898248
+    set INCLUDE VSELF IN APPLIED POTENTIAL DIFFERENCE CONSTRAINTS = true
+    set INCLUDE EXTERNAL ELECTRIC POTENTIAL                       = true
+    set TYPE OF EXTERNAL ELECTRIC POTENTIAL                       = APPLY_POTENTIAL_DIFFERENCE  
+end
+end
+
+subsection DFT functional parameters
+  set EXCHANGE CORRELATION TYPE   = GGA-PBE
+  set PSEUDOPOTENTIAL CALCULATION = true
+  set PSEUDOPOTENTIAL FILE NAMES LIST = pseudo.inp
+end
+
+subsection SCF parameters
+  set MIXING PARAMETER                 = 0.2
+  set TEMPERATURE                      = 500
+  set TOLERANCE                        = 5e-7
+    set MAXIMUM ITERATIONS              = 200
+subsection Eigen-solver parameters
+set OVERLAP COMPUTE COMMUN CHEBY                         = true
+set USE SINGLE PREC COMMUN CHEBY                         = true
+end
+end
+
+subsection Finite element mesh parameters
+  set POLYNOMIAL ORDER=7
+set POLYNOMIAL ORDER ELECTROSTATICS = 10
+  subsection Auto mesh generation parameters
+    set ATOM BALL RADIUS = 7.0
+    set MESH SIZE AROUND ATOM  = 1.0
+  end
+end
+
+subsection Poisson problem parameters
+  set GPU MODE           = true
+  set MAXIMUM ITERATIONS = 20000
+  set TOLERANCE          = 1e-10
+  set VSELF GPU MODE     = true
+end

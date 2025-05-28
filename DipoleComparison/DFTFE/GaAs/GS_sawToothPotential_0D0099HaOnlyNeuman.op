@@ -1,0 +1,2844 @@
+“RANK= 31 LOCAL_RANK= 3 gpu= 3”
+“RANK= 52 LOCAL_RANK= 0 gpu= 0”
+“RANK= 54 LOCAL_RANK= 2 gpu= 2”
+“RANK= 13 LOCAL_RANK= 1 gpu= 1”
+“RANK= 12 LOCAL_RANK= 0 gpu= 0”
+“RANK= 89 LOCAL_RANK= 1 gpu= 1”
+“RANK= 15 LOCAL_RANK= 3 gpu= 3”
+“RANK= 48 LOCAL_RANK= 0 gpu= 0”
+“RANK= 49 LOCAL_RANK= 1 gpu= 1”
+“RANK= 50 LOCAL_RANK= 2 gpu= 2”
+“RANK= 83 LOCAL_RANK= 3 gpu= 3”
+“RANK= 59 LOCAL_RANK= 3 gpu= 3”
+“RANK= 40 LOCAL_RANK= 0 gpu= 0”
+“RANK= 42 LOCAL_RANK= 2 gpu= 2”
+“RANK= 3 LOCAL_RANK= 3 gpu= 3”
+“RANK= 37 LOCAL_RANK= 1 gpu= 1”
+“RANK= 80 LOCAL_RANK= 0 gpu= 0”
+“RANK= 82 LOCAL_RANK= 2 gpu= 2”
+“RANK= 0 LOCAL_RANK= 0 gpu= 0”
+“RANK= 72 LOCAL_RANK= 0 gpu= 0”
+“RANK= 41 LOCAL_RANK= 1 gpu= 1”
+“RANK= 27 LOCAL_RANK= 3 gpu= 3”
+“RANK= 81 LOCAL_RANK= 1 gpu= 1”
+“RANK= 79 LOCAL_RANK= 3 gpu= 3”
+“RANK= 25 LOCAL_RANK= 1 gpu= 1”
+“RANK= 4 LOCAL_RANK= 0 gpu= 0”
+“RANK= 26 LOCAL_RANK= 2 gpu= 2”
+“RANK= 91 LOCAL_RANK= 3 gpu= 3”
+“RANK= 5 LOCAL_RANK= 1 gpu= 1”
+“RANK= 88 LOCAL_RANK= 0 gpu= 0”
+“RANK= 94 LOCAL_RANK= 2 gpu= 2”
+“RANK= 55 LOCAL_RANK= 3 gpu= 3”
+“RANK= 58 LOCAL_RANK= 2 gpu= 2”
+“RANK= 45 LOCAL_RANK= 1 gpu= 1”
+“RANK= 61 LOCAL_RANK= 1 gpu= 1”
+“RANK= 24 LOCAL_RANK= 0 gpu= 0”
+“RANK= 32 LOCAL_RANK= 0 gpu= 0”
+“RANK= 2 LOCAL_RANK= 2 gpu= 2”
+“RANK= 92 LOCAL_RANK= 0 gpu= 0”
+“RANK= 95 LOCAL_RANK= 3 gpu= 3”
+“RANK= 63 LOCAL_RANK= 3 gpu= 3”
+“RANK= 35 LOCAL_RANK= 3 gpu= 3”
+“RANK= 47 LOCAL_RANK= 3 gpu= 3”
+“RANK= 60 LOCAL_RANK= 0 gpu= 0”
+“RANK= 28 LOCAL_RANK= 0 gpu= 0”
+“RANK= 44 LOCAL_RANK= 0 gpu= 0”
+“RANK= 14 LOCAL_RANK= 2 gpu= 2”
+“RANK= 75 LOCAL_RANK= 3 gpu= 3”
+“RANK= 74 LOCAL_RANK= 2 gpu= 2”
+“RANK= 51 LOCAL_RANK= 3 gpu= 3”
+“RANK= 62 LOCAL_RANK= 2 gpu= 2”
+“RANK= 90 LOCAL_RANK= 2 gpu= 2”
+“RANK= 73 LOCAL_RANK= 1 gpu= 1”
+“RANK= 33 LOCAL_RANK= 1 gpu= 1”
+“RANK= 19 LOCAL_RANK= 3 gpu= 3”
+“RANK= 67 LOCAL_RANK= 3 gpu= 3”
+“RANK= 17 LOCAL_RANK= 1 gpu= 1”
+“RANK= 56 LOCAL_RANK= 0 gpu= 0”
+“RANK= 18 LOCAL_RANK= 2 gpu= 2”
+“RANK= 8 LOCAL_RANK= 0 gpu= 0”
+“RANK= 6 LOCAL_RANK= 2 gpu= 2”
+“RANK= 39 LOCAL_RANK= 3 gpu= 3”
+“RANK= 20 LOCAL_RANK= 0 gpu= 0”
+“RANK= 7 LOCAL_RANK= 3 gpu= 3”
+“RANK= 43 LOCAL_RANK= 3 gpu= 3”
+“RANK= 87 LOCAL_RANK= 3 gpu= 3”
+“RANK= 36 LOCAL_RANK= 0 gpu= 0”
+“RANK= 85 LOCAL_RANK= 1 gpu= 1”
+“RANK= 38 LOCAL_RANK= 2 gpu= 2”
+“RANK= 78 LOCAL_RANK= 2 gpu= 2”
+“RANK= 86 LOCAL_RANK= 2 gpu= 2”
+“RANK= 1 LOCAL_RANK= 1 gpu= 1”
+“RANK= 77 LOCAL_RANK= 1 gpu= 1”
+“RANK= 64 LOCAL_RANK= 0 gpu= 0”
+“RANK= 66 LOCAL_RANK= 2 gpu= 2”
+“RANK= 84 LOCAL_RANK= 0 gpu= 0”
+“RANK= 76 LOCAL_RANK= 0 gpu= 0”
+“RANK= 71 LOCAL_RANK= 3 gpu= 3”
+“RANK= 46 LOCAL_RANK= 2 gpu= 2”
+“RANK= 23 LOCAL_RANK= 3 gpu= 3”
+“RANK= 69 LOCAL_RANK= 1 gpu= 1”
+“RANK= 34 LOCAL_RANK= 2 gpu= 2”
+“RANK= 22 LOCAL_RANK= 2 gpu= 2”
+“RANK= 10 LOCAL_RANK= 2 gpu= 2”
+“RANK= 68 LOCAL_RANK= 0 gpu= 0”
+“RANK= 70 LOCAL_RANK= 2 gpu= 2”
+“RANK= 9 LOCAL_RANK= 1 gpu= 1”
+“RANK= 11 LOCAL_RANK= 3 gpu= 3”
+“RANK= 16 LOCAL_RANK= 0 gpu= 0”
+“RANK= 30 LOCAL_RANK= 2 gpu= 2”
+“RANK= 29 LOCAL_RANK= 1 gpu= 1”
+“RANK= 65 LOCAL_RANK= 1 gpu= 1”
+“RANK= 21 LOCAL_RANK= 1 gpu= 1”
+“RANK= 53 LOCAL_RANK= 1 gpu= 1”
+“RANK= 57 LOCAL_RANK= 1 gpu= 1”
+“RANK= 93 LOCAL_RANK= 1 gpu= 1”
+==========================================================================================================
+==========================================================================================================
+			Welcome to the Open Source program DFT-FE version	1.1.0-pre		        
+This is a C++ code for materials modeling from first principles using Kohn-Sham density functional theory.
+This is a real-space code for periodic, semi-periodic and non-periodic pseudopotential
+and all-electron calculations, and is based on adaptive finite-element discretization.
+For further details, and citing, please refer to our website: https://sites.google.com/umich.edu/dftfe
+==========================================================================================================
+ DFT-FE Mentors and Development leads (alphabetically) :									
+														
+ Sambit Das               - University of Michigan, USA
+ Vikram Gavini            - University of Michigan, USA
+ Phani Motamarri          - Indian Institute of Science, India
+ (A complete list of the many authors that have contributed to DFT-FE can be found in the authors file)
+==========================================================================================================
+ 	     Copyright (c) 2017-2025 The Regents of the University of Michigan and DFT-FE authors         
+ 			DFT-FE is published under [LGPL v2.1 or newer] 				
+==========================================================================================================
+==========================================================================================================
+set RESTART        = false
+set RESTART FOLDER = .
+set SOLVER MODE    = GS
+set USE GPU        = true
+set VERBOSITY      = 4
+subsection NEB
+  set ALLOW IMAGE FREEZING             = false
+  set BFGS STEP METHOD                 = QN
+  set ION RELAX FLAGS FILE             = 
+  set LBFGS HISTORY                    = 5
+  set MAXIMUM ION UPDATE STEP          = 0.5
+  set MAXIMUM NUMBER OF NEB ITERATIONS = 100
+  set MAXIMUM SPRING CONSTANT          = 5e-3
+  set MAX LINE SEARCH ITER             = 5
+  set MINIMUM SPRING CONSTANT          = 2e-3
+  set NEB COORDINATES FILE             = 
+  set NEB DOMAIN VECTORS FILE          = 
+  set NEB OPT SOLVER                   = LBFGS
+  set NUMBER OF IMAGES                 = 7
+  set PATH THRESHOLD                   = 5e-4
+end
+set KEEP SCRATCH FOLDER                             = false
+set MEM OPT MODE                                    = true
+set REPRODUCIBLE OUTPUT                             = false
+set WRITE STRUCTURE ENERGY FORCES DATA POST PROCESS = false
+subsection Boundary conditions
+  set CONSTRAINTS FROM SERIAL DOFHANDLER = false
+  set CONSTRAINTS PARALLEL CHECK         = false
+  set FLOATING NUCLEAR CHARGES           = true
+  set MULTIPOLE BOUNDARY CONDITIONS      = false
+  set PERIODIC1                          = true
+  set PERIODIC2                          = true
+  set PERIODIC3                          = false
+  set POINT WISE DIRICHLET CONSTRAINT    = false
+  set SELF POTENTIAL RADIUS              = 0.0
+  set SMEARED NUCLEAR CHARGES            = true
+  subsection External Electric Potential
+    set APPLIED POTENTIAL DIFFERENCE LEFT SURFACE VALUE           = 0.0
+    set APPLIED POTENTIAL DIFFERENCE VALUE                        = 0.0
+    set APPLIED POTENTIAL LEFT SURFACE POSITION                   = 0.0
+    set APPLIED POTENTIAL RIGHT SURFACE POSITION                  = 1.0
+    set INCLUDE EXTERNAL ELECTRIC POTENTIAL                       = true
+    set INCLUDE VSELF IN APPLIED POTENTIAL DIFFERENCE CONSTRAINTS = false
+    set POSITION OF SAW TOOTH POTENTIAL MAX                       = 0.9
+    set REGION OF SAW TOOTH POTENTIAL DECREASE                    = 0.2
+    set SLOPE OF EXTERNAL POTENTIAL                               = 0.0099
+    set TYPE OF EXTERNAL ELECTRIC POTENTIAL                       = SAWTOOTH_POTENTIAL
+  end
+end
+subsection Brillouin zone k point sampling options
+  set USE GROUP SYMMETRY         = false
+  set USE TIME REVERSAL SYMMETRY = true
+  set kPOINT RULE FILE           = 
+  subsection Monkhorst-Pack (MP) grid generation
+    set SAMPLING POINTS 1 = 10
+    set SAMPLING POINTS 2 = 10
+    set SAMPLING POINTS 3 = 1
+    set SAMPLING SHIFT 1  = 1
+    set SAMPLING SHIFT 2  = 1
+    set SAMPLING SHIFT 3  = 0
+  end
+end
+subsection DFT functional parameters
+  set AUX BASIS DATA                  = 
+  set AUX BASIS TYPE                  = FE
+  set EXCHANGE CORRELATION TYPE       = GGA-PBE
+  set MODEL XC INPUT FILE             = 
+  set NET CHARGE                      = 0.0
+  set PSEUDOPOTENTIAL CALCULATION     = true
+  set PSEUDOPOTENTIAL FILE NAMES LIST = pseudo.inp
+  set PSEUDO TESTS FLAG               = false
+  set PSP CUTOFF IMAGE CHARGES        = 15.0
+  set SPIN POLARIZATION               = 0
+  set TOTAL MAGNETIZATION             = 0.0
+  subsection CONFINING POTENTIAL parameters
+    set APPLY CONFINING POTENTIAL = false
+    set C PARAM                   = 1.0
+    set INNER RADIUS              = 17.0
+    set OUTER RADIUS              = 20.0
+    set W PARAM                   = 1.0
+  end
+  subsection Dispersion Correction
+    set CN CUTOFF                  = 40.0
+    set D3 ATM                     = false
+    set D3 DAMPING TYPE            = 3
+    set D4 MBD                     = false
+    set DAMPING PARAMETERS FILE    = 
+    set DISPERSION CORRECTION TYPE = 0
+    set THREE BODY CUTOFF          = 40.0
+    set TWO BODY CUTOFF            = 94.8683298050514
+  end
+  subsection Hubbard Parameters
+    set HUBBARD PARAMETERS FILE = 
+  end
+end
+subsection Finite element mesh parameters
+  set POLYNOMIAL ORDER                = 7
+  set POLYNOMIAL ORDER ELECTROSTATICS = 10
+  subsection Auto mesh generation parameters
+    set ATOM BALL RADIUS                  = 7.0
+    set AUTO ADAPT BASE MESH SIZE         = true
+    set BASE MESH SIZE                    = 0.0
+    set ERROR ESTIMATE WAVEFUNCTIONS      = 5
+    set GAUSSIAN CONSTANT FORCE GENERATOR = 0.75
+    set GAUSSIAN ORDER FORCE GENERATOR    = 4.0
+    set GAUSSIAN ORDER MOVE MESH TO ATOMS = 4.0
+    set INNER ATOM BALL RADIUS            = 0.0
+    set MESH ADAPTION                     = false
+    set MESH SIZES FILE                   = 
+    set MESH SIZE AROUND ATOM             = 1.0
+    set MESH SIZE AT ATOM                 = 0.0
+    set NUM LEVELS                        = 10
+    set TOLERANCE FOR MESH ADAPTION       = 1
+    set TOP FRAC                          = 0.1
+    set USE FLAT TOP GENERATOR            = false
+  end
+end
+subsection FunctionalTest
+  set TEST NAME = 
+end
+subsection GPU
+  set AUTO GPU BLOCK SIZES         = true
+  set FINE GRAINED GPU TIMINGS     = false
+  set SUBSPACE ROT FULL CPU MEM    = true
+  set USE DCCL                     = false
+  set USE ELPA GPU KERNEL          = false
+  set USE GPUDIRECT MPI ALL REDUCE = false
+end
+subsection Geometry
+  set ATOMIC COORDINATES FILE      = coordinates111.inp
+  set ATOMIC DISP COORDINATES FILE = 
+  set DOMAIN VECTORS FILE          = domainVectors111.inp
+  set NATOMS                       = 24
+  set NATOM TYPES                  = 2
+  subsection Optimization
+    set BFGS STEP METHOD           = QN
+    set CELL CONSTRAINT TYPE       = 12
+    set CELL OPT SOLVER            = LBFGS
+    set CELL STRESS                = false
+    set FORCE TOL                  = 1e-4
+    set ION FORCE                  = true
+    set ION OPT SOLVER             = LBFGS
+    set ION RELAX FLAGS FILE       = 
+    set LBFGS HISTORY              = 5
+    set MAXIMUM CELL UPDATE STEP   = 0.1
+    set MAXIMUM ION UPDATE STEP    = 0.5
+    set MAXIMUM OPTIMIZATION STEPS = 300
+    set MAXIMUM STAGGERED CYCLES   = 300
+    set MAX LINE SEARCH ITER       = 5
+    set NON SELF CONSISTENT FORCE  = false
+    set OPTIMIZATION MODE          = ION
+    set REUSE DENSITY              = 1
+    set REUSE WFC                  = true
+    set STRESS TOL                 = 1e-6
+    set USE PRECONDITIONER         = false
+  end
+end
+subsection Helmholtz problem parameters
+  set ABSOLUTE TOLERANCE HELMHOLTZ = 1e-10
+  set MAXIMUM ITERATIONS HELMHOLTZ = 10000
+end
+subsection Molecular Dynamics
+  set ATOMIC MASSES FILE          = 
+  set BOMD                        = false
+  set EXTRAPOLATE DENSITY         = 0
+  set MAX JACOBIAN RATIO FACTOR   = 1.5
+  set MAX WALL TIME               = 2592000.0
+  set NUMBER OF STEPS             = 1000
+  set STARTING TEMPERATURE        = 300.0
+  set TEMPERATURE CONTROLLER TYPE = NO_CONTROL
+  set THERMOSTAT TIME CONSTANT    = 100
+  set TIME STEP                   = 0.5
+  set TRACKING ATOMIC NO          = 0
+end
+subsection Parallelization
+  set BAND PARAL OPT           = true
+  set MPI ALLREDUCE BLOCK SIZE = 100.0
+  set NPBAND                   = 1
+  set NPKPT                    = 4
+end
+subsection Poisson problem parameters
+  set GPU MODE           = true
+  set MAXIMUM ITERATIONS = 20000
+  set TOLERANCE          = 1e-10
+  set VSELF GPU MODE     = true
+end
+subsection Post-processing Options
+  set DELTA ENERGY                                        = 0.01
+  set DOS SMEAR TEMPERATURE                               = 500
+  set NUMBER OF SAMPLING POINTS ALONG X                   = 501
+  set NUMBER OF SAMPLING POINTS ALONG Y                   = 501
+  set NUMBER OF SAMPLING POINTS ALONG Z                   = 501
+  set PRINT KINETIC ENERGY                                = false
+  set READ ATOMIC WFC PDOS FROM PSP FILE                  = false
+  set WRITE BANDS                                         = false
+  set WRITE DENSITY FE MESH                               = false
+  set WRITE DENSITY OF STATES                             = false
+  set WRITE DENSITY QUAD DATA                             = false
+  set WRITE LOCALIZATION LENGTHS                          = false
+  set WRITE LOCAL DENSITY OF STATES                       = false
+  set WRITE PLANAR AVERAGE TOTAL ELECTROSTATICS POTENTIAL = false
+  set WRITE PLANAR AVERAGE VEFF POTENTIAL                 = false
+  set WRITE PROJECTED DENSITY OF STATES                   = false
+  set WRITE TOTAL ELECTROSTATICS POTENTIAL                = false
+  set WRITE WFC FE MESH                                   = false
+  set XY-PLANAR AVERAGE OF BARE POTENTIAL                 = false
+  set XY-PLANAR AVERAGE OF ELECTRON DENSITY               = false
+  set XY-PLANAR AVERAGE OF ELECTROSTATIC POTENTIAL        = false
+end
+subsection SCF Checkpointing and Restart
+  set LOAD RHO DATA         = false
+  set RESTART SP FROM NO SP = false
+  set SAVE RHO DATA         = false
+end
+subsection SCF parameters
+  set ADAPT ANDERSON MIXING PARAMETER = false
+  set COMPUTE ENERGY EACH ITER        = false
+  set CONSTRAINT MAGNETIZATION        = false
+  set ENERGY TOLERANCE                = 1e-07
+  set KERKER MIXING PARAMETER         = 0.05
+  set MAXIMUM ITERATIONS              = 200
+  set MIXING HISTORY                  = 10
+  set MIXING METHOD                   = ANDERSON
+  set MIXING PARAMETER                = 0.15
+  set RESTA FERMI WAVEVECTOR          = 5.81
+  set RESTA SCREENING LENGTH          = 6.61
+  set SPIN MIXING ENHANCEMENT FACTOR  = 1.0
+  set STARTING WFC                    = RANDOM
+  set TEMPERATURE                     = 5
+  set TOLERANCE                       = 5e-6
+  set USE ENERGY RESIDUAL METRIC      = false
+  subsection Eigen-solver parameters
+    set ALGO                                                 = NORMAL
+    set ALLOW MULTIPLE PASSES POST FIRST SCF                 = true
+    set CHEBYSHEV FILTER TOLERANCE                           = 0.0
+    set CHEBYSHEV POLYNOMIAL DEGREE                          = 0
+    set CHEBYSHEV POLYNOMIAL DEGREE SCALING FACTOR FIRST SCF = 1.34
+    set CHEBY WFC BLOCK SIZE                                 = 200
+    set HIGHEST STATE OF INTEREST FOR CHEBYSHEV FILTERING    = 0
+    set NUMBER OF CORE EIGEN STATES FOR MIXED PREC RR        = 0
+    set NUMBER OF KOHN-SHAM WAVEFUNCTIONS                    = 0
+    set ORTHOGONALIZATION TYPE                               = Auto
+    set OVERLAP COMPUTE COMMUN CHEBY                         = true
+    set OVERLAP COMPUTE COMMUN ORTHO RR                      = true
+    set RESTRICT TO SINGLE FILTER PASS                       = false
+    set REUSE LANCZOS UPPER BOUND                            = false
+    set SCALAPACKPROCS                                       = 0
+    set SCALAPACK BLOCK SIZE                                 = 0
+    set SUBSPACE PROJ SHEP GPU                               = true
+    set SUBSPACE ROT DOFS BLOCK SIZE                         = 10000
+    set TENSOR OP TYPE SINGLE PREC CHEBY                     = FP32
+    set USE APPROXIMATE OVERLAP MATRIX                       = true
+    set USE ELPA                                             = true
+    set USE MIXED PREC CGS O                                 = false
+    set USE MIXED PREC CGS SR                                = false
+    set USE MIXED PREC COMMUN ONLY XTX XTHX                  = false
+    set USE MIXED PREC RR_SR                                 = false
+    set USE RE-FORMULATED CHFSI                              = true
+    set USE SINGLE PREC CHEBY                                = false
+    set USE SINGLE PREC COMMUN CHEBY                         = false
+    set WFC BLOCK SIZE                                       = 400
+  end
+  subsection LOW RANK DIELECM PRECOND
+    set ADAPTIVE RANK REL TOL            = 0.3
+    set BETA TOL                         = 0.1
+    set ESTIMATE JAC CONDITION NO        = false
+    set METHOD SUB TYPE                  = ADAPTIVE
+    set POISSON SOLVER ABS TOL           = 1e-6
+    set STARTING NORM LARGE DAMPING      = 2.0
+    set USE SINGLE PREC DENSITY RESPONSE = false
+  end
+end
+Setting ORTHOGONALIZATION TYPE=CGS for pseudopotential calculations 
+=================================MPI Parallelization=========================================
+Total number of MPI tasks: 96
+k-point parallelization processor groups: 4
+Band parallelization processor groups: 1
+Number of MPI tasks for finite-element domain decomposition: 24
+============================================================================================
+Threads per MPI task: 1
+number of atoms: 24
+number of atoms types: 2
+ Warning: User has requested the number of Kohn-Sham wavefunctions to be less than orequal to half the number of electrons in the system. Setting the Kohn-Sham wavefunctionsto half the number of electrons with a 20 percent buffer to avoid convergence issues inSCF iterations
+ Setting the number of Kohn-Sham wave functions to be 196
+ Setting the number of Kohn-Sham wave functions for Device run to be: 200
+ Setting CHEBY WFC BLOCK SIZE for Device run to be 100
+ Setting WFC BLOCK SIZE for Device run to be 100
+
+Reading Pseudo-potential data for each atom from the list given in : pseudo.inp
+ Reading Pseudopotential File: Ga.upf, with atomic number: 31, and has data for nonlinear core-correction
+ Reading Pseudopotential File: As.upf, with atomic number: 33, and has data for nonlinear core-correction
+Total number of k-points 100
+-----------Reciprocal vectors along which the MP grid is to be generated-------------
+G1 : 4.088692002908133616e-01 2.360607428581041889e-01 0.000000000000000000e+00
+G2 : -0.000000000000000000e+00 4.721214858390988534e-01 0.000000000000000000e+00
+G3 : 0.000000000000000000e+00 0.000000000000000000e+00 0.000000000000000000e+00
+ Only time reversal symmetry to be used 
+ kpoint 0 numSymmUnderGroup 2
+ kpoint 1 numSymmUnderGroup 2
+ kpoint 2 numSymmUnderGroup 2
+ kpoint 3 numSymmUnderGroup 2
+ kpoint 4 numSymmUnderGroup 2
+ kpoint 5 numSymmUnderGroup 2
+ kpoint 6 numSymmUnderGroup 2
+ kpoint 7 numSymmUnderGroup 2
+ kpoint 8 numSymmUnderGroup 2
+ kpoint 9 numSymmUnderGroup 2
+ kpoint 10 numSymmUnderGroup 2
+ kpoint 11 numSymmUnderGroup 2
+ kpoint 12 numSymmUnderGroup 2
+ kpoint 13 numSymmUnderGroup 2
+ kpoint 14 numSymmUnderGroup 2
+ kpoint 15 numSymmUnderGroup 2
+ kpoint 16 numSymmUnderGroup 2
+ kpoint 17 numSymmUnderGroup 2
+ kpoint 18 numSymmUnderGroup 2
+ kpoint 19 numSymmUnderGroup 2
+ kpoint 20 numSymmUnderGroup 2
+ kpoint 21 numSymmUnderGroup 2
+ kpoint 22 numSymmUnderGroup 2
+ kpoint 23 numSymmUnderGroup 2
+ kpoint 24 numSymmUnderGroup 2
+ kpoint 25 numSymmUnderGroup 2
+ kpoint 26 numSymmUnderGroup 2
+ kpoint 27 numSymmUnderGroup 2
+ kpoint 28 numSymmUnderGroup 2
+ kpoint 29 numSymmUnderGroup 2
+ kpoint 30 numSymmUnderGroup 2
+ kpoint 31 numSymmUnderGroup 2
+ kpoint 32 numSymmUnderGroup 2
+ kpoint 33 numSymmUnderGroup 2
+ kpoint 34 numSymmUnderGroup 2
+ kpoint 35 numSymmUnderGroup 2
+ kpoint 36 numSymmUnderGroup 2
+ kpoint 37 numSymmUnderGroup 2
+ kpoint 38 numSymmUnderGroup 2
+ kpoint 39 numSymmUnderGroup 2
+ kpoint 40 numSymmUnderGroup 2
+ kpoint 41 numSymmUnderGroup 2
+ kpoint 42 numSymmUnderGroup 2
+ kpoint 43 numSymmUnderGroup 2
+ kpoint 44 numSymmUnderGroup 2
+ kpoint 45 numSymmUnderGroup 2
+ kpoint 46 numSymmUnderGroup 2
+ kpoint 47 numSymmUnderGroup 2
+ kpoint 48 numSymmUnderGroup 2
+ kpoint 49 numSymmUnderGroup 2
+ 2 symmetries used to reduce BZ 
+1.000000000000000000e+00  0.000000000000000000e+00  0.000000000000000000e+00
+0.000000000000000000e+00  1.000000000000000000e+00  0.000000000000000000e+00
+0.000000000000000000e+00  0.000000000000000000e+00  1.000000000000000000e+00
+ 2  
+1.000000000000000000e+00  -0.000000000000000000e+00  -0.000000000000000000e+00
+-0.000000000000000000e+00  1.000000000000000000e+00  -0.000000000000000000e+00
+-0.000000000000000000e+00  -0.000000000000000000e+00  1.000000000000000000e+00
+ 2  
+ number of irreducible k-points 50
+Reduced k-Point-coordinates and weights: 
+      1:       0.05000       0.05000      0.00000      0.02000
+      2:       0.05000       0.15000      0.00000      0.02000
+      3:       0.05000       0.25000      0.00000      0.02000
+      4:       0.05000       0.35000      0.00000      0.02000
+      5:       0.05000       0.45000      0.00000      0.02000
+      6:       0.05000      -0.45000      0.00000      0.02000
+      7:       0.05000      -0.35000      0.00000      0.02000
+      8:       0.05000      -0.25000      0.00000      0.02000
+      9:       0.05000      -0.15000      0.00000      0.02000
+     10:       0.05000      -0.05000      0.00000      0.02000
+     11:       0.15000       0.05000      0.00000      0.02000
+     12:       0.15000       0.15000      0.00000      0.02000
+     13:       0.15000       0.25000      0.00000      0.02000
+     14:       0.15000       0.35000      0.00000      0.02000
+     15:       0.15000       0.45000      0.00000      0.02000
+     16:       0.15000      -0.45000      0.00000      0.02000
+     17:       0.15000      -0.35000      0.00000      0.02000
+     18:       0.15000      -0.25000      0.00000      0.02000
+     19:       0.15000      -0.15000      0.00000      0.02000
+     20:       0.15000      -0.05000      0.00000      0.02000
+     21:       0.25000       0.05000      0.00000      0.02000
+     22:       0.25000       0.15000      0.00000      0.02000
+     23:       0.25000       0.25000      0.00000      0.02000
+     24:       0.25000       0.35000      0.00000      0.02000
+     25:       0.25000       0.45000      0.00000      0.02000
+     26:       0.25000      -0.45000      0.00000      0.02000
+     27:       0.25000      -0.35000      0.00000      0.02000
+     28:       0.25000      -0.25000      0.00000      0.02000
+     29:       0.25000      -0.15000      0.00000      0.02000
+     30:       0.25000      -0.05000      0.00000      0.02000
+     31:       0.35000       0.05000      0.00000      0.02000
+     32:       0.35000       0.15000      0.00000      0.02000
+     33:       0.35000       0.25000      0.00000      0.02000
+     34:       0.35000       0.35000      0.00000      0.02000
+     35:       0.35000       0.45000      0.00000      0.02000
+     36:       0.35000      -0.45000      0.00000      0.02000
+     37:       0.35000      -0.35000      0.00000      0.02000
+     38:       0.35000      -0.25000      0.00000      0.02000
+     39:       0.35000      -0.15000      0.00000      0.02000
+     40:       0.35000      -0.05000      0.00000      0.02000
+     41:       0.45000       0.05000      0.00000      0.02000
+     42:       0.45000       0.15000      0.00000      0.02000
+     43:       0.45000       0.25000      0.00000      0.02000
+     44:       0.45000       0.35000      0.00000      0.02000
+     45:       0.45000       0.45000      0.00000      0.02000
+     46:       0.45000      -0.45000      0.00000      0.02000
+     47:       0.45000      -0.35000      0.00000      0.02000
+     48:       0.45000      -0.25000      0.00000      0.02000
+     49:       0.45000      -0.15000      0.00000      0.02000
+     50:       0.45000      -0.05000      0.00000      0.02000
+Atleast one atom has pseudopotential with nonlinear core correction
+Scalapack Matrix created, row procs: 2
+Scalapack Matrix created, row procs: 2
+Scalapack Matrix created, row procs: 2
+Scalapack Matrix created, row procs: 2
+Atomic system initialization, wall time: 0.278845s.
+-----------Simulation Domain bounding vectors (lattice vectors in fully periodic case)-------------
+v1 : 1.536722576000000018e+01 0.000000000000000000e+00 0.000000000000000000e+00
+v2 : -7.683612877999999924e+00 1.330840788999999980e+01 0.000000000000000000e+00
+v3 : 0.000000000000000000e+00 0.000000000000000000e+00 7.551271171000000493e+01
+-----------------------------------------------------------------------------------------
+-----Fractional coordinates of atoms------ 
+AtomId 0:  0.000000000000000000e+00 0.000000000000000000e+00 3.857641600000000226e-01
+AtomId 1:  3.333334029999999726e-01 6.666668059999999452e-01 4.688447800000000165e-01
+AtomId 2:  6.666666869999999800e-01 3.333333130000000200e-01 5.519253990000000387e-01
+AtomId 3:  8.333333130000000200e-01 1.666666569999999958e-01 4.688447800000000165e-01
+AtomId 4:  1.666665820000000076e-01 8.333333130000000200e-01 5.519253990000000387e-01
+AtomId 5:  4.999999399999999761e-01 5.000000000000000000e-01 3.857641600000000226e-01
+AtomId 6:  8.333332540000000233e-01 6.666668059999999452e-01 4.688447800000000165e-01
+AtomId 7:  1.666665380000000030e-01 3.333333130000000200e-01 5.519253990000000387e-01
+AtomId 8:  5.000000000000000000e-01 0.000000000000000000e+00 3.857641600000000226e-01
+AtomId 9:  3.333332840000000075e-01 1.666666569999999958e-01 4.688447800000000165e-01
+AtomId 10:  6.666666869999999800e-01 8.333333130000000200e-01 5.519253990000000387e-01
+AtomId 11:  0.000000000000000000e+00 5.000000000000000000e-01 3.857641600000000226e-01
+AtomId 12:  8.333333130000000200e-01 1.666666569999999958e-01 5.311552520000000222e-01
+AtomId 13:  1.666665820000000076e-01 8.333333130000000200e-01 6.142358409999999491e-01
+AtomId 14:  4.999999399999999761e-01 5.000000000000000000e-01 4.480746319999999727e-01
+AtomId 15:  0.000000000000000000e+00 0.000000000000000000e+00 4.480746319999999727e-01
+AtomId 16:  3.333334029999999726e-01 6.666668059999999452e-01 5.311552520000000222e-01
+AtomId 17:  6.666666869999999800e-01 3.333333130000000200e-01 6.142358409999999491e-01
+AtomId 18:  3.333332840000000075e-01 1.666666569999999958e-01 5.311552520000000222e-01
+AtomId 19:  6.666666869999999800e-01 8.333333130000000200e-01 6.142358409999999491e-01
+AtomId 20:  0.000000000000000000e+00 5.000000000000000000e-01 4.480746319999999727e-01
+AtomId 21:  8.333332540000000233e-01 6.666668059999999452e-01 5.311552520000000222e-01
+AtomId 22:  1.666665380000000030e-01 3.333333130000000200e-01 6.142358409999999491e-01
+AtomId 23:  5.000000000000000000e-01 0.000000000000000000e+00 4.480746319999999727e-01
+-----------------------------------------------------------------------------------------
+Number Image Charges  178
+-------------------k points reduced coordinates and weights-----------------------------
+ [5.000000000000000278e-02, 5.000000000000000278e-02, 0.000000000000000000e+00] 2.000000000000000042e-02
+ [5.000000000000000278e-02, 1.500000000000000222e-01, 0.000000000000000000e+00] 2.000000000000000042e-02
+ [5.000000000000000278e-02, 2.500000000000000000e-01, 0.000000000000000000e+00] 2.000000000000000042e-02
+ [5.000000000000000278e-02, 3.500000000000000333e-01, 0.000000000000000000e+00] 2.000000000000000042e-02
+ [5.000000000000000278e-02, 4.500000000000000111e-01, 0.000000000000000000e+00] 2.000000000000000042e-02
+ [5.000000000000000278e-02, -4.499999999999999556e-01, 0.000000000000000000e+00] 2.000000000000000042e-02
+ [5.000000000000000278e-02, -3.499999999999999778e-01, 0.000000000000000000e+00] 2.000000000000000042e-02
+ [5.000000000000000278e-02, -2.500000000000000000e-01, 0.000000000000000000e+00] 2.000000000000000042e-02
+ [5.000000000000000278e-02, -1.499999999999999112e-01, 0.000000000000000000e+00] 2.000000000000000042e-02
+ [5.000000000000000278e-02, -4.999999999999993339e-02, 0.000000000000000000e+00] 2.000000000000000042e-02
+ [1.500000000000000222e-01, 5.000000000000000278e-02, 0.000000000000000000e+00] 2.000000000000000042e-02
+ [1.500000000000000222e-01, 1.500000000000000222e-01, 0.000000000000000000e+00] 2.000000000000000042e-02
+ [1.500000000000000222e-01, 2.500000000000000000e-01, 0.000000000000000000e+00] 2.000000000000000042e-02
+-----------------------------------------------------------------------------------------
+-------------------k points cartesian coordinates and weights-----------------------------
+ [2.044346001454067085e-02, 3.540911143486015489e-02, 0.000000000000000000e+00] 2.000000000000000042e-02
+ [2.044346001454067085e-02, 8.262126001877004300e-02, 0.000000000000000000e+00] 2.000000000000000042e-02
+ [2.044346001454067085e-02, 1.298334086026799172e-01, 0.000000000000000000e+00] 2.000000000000000042e-02
+ [2.044346001454067085e-02, 1.770455571865898192e-01, 0.000000000000000000e+00] 2.000000000000000042e-02
+ [2.044346001454067085e-02, 2.242577057704996935e-01, 0.000000000000000000e+00] 2.000000000000000042e-02
+ [2.044346001454067085e-02, -2.006516314846892579e-01, 0.000000000000000000e+00] 2.000000000000000042e-02
+ [2.044346001454067085e-02, -1.534394829007793837e-01, 0.000000000000000000e+00] 2.000000000000000042e-02
+ [2.044346001454067085e-02, -1.062273343168695094e-01, 0.000000000000000000e+00] 2.000000000000000042e-02
+ [2.044346001454067085e-02, -5.901518573295957276e-02, 0.000000000000000000e+00] 2.000000000000000042e-02
+ [2.044346001454067085e-02, -1.180303714904970200e-02, 0.000000000000000000e+00] 2.000000000000000042e-02
+ [6.133038004362201256e-02, 5.901518572067057655e-02, 0.000000000000000000e+00] 2.000000000000000042e-02
+ [6.133038004362201256e-02, 1.062273343045804785e-01, 0.000000000000000000e+00] 2.000000000000000042e-02
+ [6.133038004362201256e-02, 1.534394828884903528e-01, 0.000000000000000000e+00] 2.000000000000000042e-02
+-----------------------------------------------------------------------------------------
+image charges and k point generation, wall time: 0.139769s.
+Minimum distance between atoms: 4.705229216818772819e+00
+Periodic Face Normals 1: 1.004953968316659484e+03 5.802104441476574266e+02 -0.000000000000000000e+00
+Periodic Face Normals 2: 0.000000000000000000e+00 1.160420888597365774e+03 0.000000000000000000e+00
+Periodic Face Normals 3: 0.000000000000000000e+00 -0.000000000000000000e+00 2.045133085517952338e+02
+Periodic Facepairs size: 608
+
+Coarse triangulation number of elements: 2432
+refinement in progress, level: 0
+Hanging node and periodic constraints parallel consistency achieved.
+Triangulation generation summary: 
+ num elements: 9264, num refinement levels: 1, min element length: 9.604516097290756171e-01, max element length: 1.920903219458158340e+00
+ numParallelCells: 9264
+Periodic Face Normals 1: 1.004953968316659484e+03 5.802104441476574266e+02 -0.000000000000000000e+00
+Periodic Face Normals 2: 0.000000000000000000e+00 1.160420888597365774e+03 0.000000000000000000e+00
+Periodic Face Normals 3: 0.000000000000000000e+00 -0.000000000000000000e+00 2.045133085517952338e+02
+Periodic Facepairs size: 608
+
+Coarse triangulation number of elements: 2432
+refinement in progress, level: 0
+Hanging node and periodic constraints parallel consistency achieved.
+Triangulation generation summary: 
+ num elements: 9264, num refinement levels: 1, min element length: 9.604516097290756171e-01, max element length: 1.920903219458158340e+00
+ numParallelCells: 9264
+mesh generation, wall time: 0.727288s.
+
+Mesh generation completed, Current maximum memory usage across all processors: 2.151206207275390625e+01 GB out of 5.031980056762695312e+02
+
+
+Mesh generation completed, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+Mesh generation completed, Current maximum memory usage across all processors: 1.537870025634765625e+01 GB out of 5.031980056762695312e+02
+
+
+Mesh generation completed, Current maximum memory usage across all processors: 1.544940948486328125e+01 GB out of 5.031979866027832031e+02
+
+
+Mesh generation completed, Current maximum memory usage across all processors: 1.624230575561523438e+01 GB out of 5.031979866027832031e+02
+
+
+Mesh generation completed, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+Mesh generation completed, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+Mesh generation completed, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+Inititialization of meshmovement class objects completed, Current maximum memory usage across all processors: 2.151206207275390625e+01 GB out of 5.031980056762695312e+02
+
+
+Inititialization of meshmovement class objects completed, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+Inititialization of meshmovement class objects completed, Current maximum memory usage across all processors: 1.537870025634765625e+01 GB out of 5.031980056762695312e+02
+
+
+Inititialization of meshmovement class objects completed, Current maximum memory usage across all processors: 1.624230575561523438e+01 GB out of 5.031979866027832031e+02
+
+
+Inititialization of meshmovement class objects completed, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+Inititialization of meshmovement class objects completed, Current maximum memory usage across all processors: 1.544940948486328125e+01 GB out of 5.031979866027832031e+02
+
+
+Inititialization of meshmovement class objects completed, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+Inititialization of meshmovement class objects completed, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+Distributed dofs, Current maximum memory usage across all processors: 1.545085144042968750e+01 GB out of 5.031979866027832031e+02
+
+
+
+Distributed dofs, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+Distributed dofs, Current maximum memory usage across all processors: 2.151782989501953125e+01 GB out of 5.031980056762695312e+02
+
+
+Distributed dofs, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+Distributed dofs, Current maximum memory usage across all processors: 1.538639068603515625e+01 GB out of 5.031980056762695312e+02
+
+
+Distributed dofs, Current maximum memory usage across all processors: 1.625077056884765625e+01 GB out of 5.031979866027832031e+02
+
+
+Distributed dofs, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+Distributed dofs, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+Extracted indices, Current maximum memory usage across all processors: 1.569802856445312500e+01 GB out of 5.031979866027832031e+02
+
+
+Extracted indices, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+Extracted indices, Current maximum memory usage across all processors: 1.650053024291992188e+01 GB out of 5.031979866027832031e+02
+
+
+Extracted indices, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+Extracted indices, Current maximum memory usage across all processors: 1.563440704345703125e+01 GB out of 5.031980056762695312e+02
+
+
+Extracted indices, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+Extracted indices, Current maximum memory usage across all processors: 2.177462005615234375e+01 GB out of 5.031980056762695312e+02
+
+
+Extracted indices, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+Created the basic constraint matrices, Current maximum memory usage across all processors: 1.741169357299804688e+01 GB out of 5.031979866027832031e+02
+
+
+Created the basic constraint matrices, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+Force initUnmoved, Current maximum memory usage across all processors: 1.741193389892578125e+01 GB out of 5.031979866027832031e+02
+
+
+Force initUnmoved, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+initUnmovedTriangulation completed, Current maximum memory usage across all processors: 1.741193389892578125e+01 GB out of 5.031979866027832031e+02
+
+
+initUnmovedTriangulation completed, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+moveMeshToAtoms completed, Current maximum memory usage across all processors: 1.741193389892578125e+01 GB out of 5.031979866027832031e+02
+
+
+Created the basic constraint matrices, Current maximum memory usage across all processors: 2.268008041381835938e+01 GB out of 5.031980056762695312e+02
+
+
+moveMeshToAtoms completed, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+Created the basic constraint matrices, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+Created the basic constraint matrices, Current maximum memory usage across all processors: 1.654449081420898438e+01 GB out of 5.031980056762695312e+02
+
+
+Created the basic constraint matrices, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+Created the basic constraint matrices, Current maximum memory usage across all processors: 1.657694244384765625e+01 GB out of 5.031979866027832031e+02
+
+
+Created the basic constraint matrices, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+Force initUnmoved, Current maximum memory usage across all processors: 2.268008041381835938e+01 GB out of 5.031980056762695312e+02
+
+
+Force initUnmoved, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+unmoved setup, wall time: 1.05144s.
+
+Force initUnmoved, Current maximum memory usage across all processors: 1.654593276977539062e+01 GB out of 5.031980056762695312e+02
+
+
+Force initUnmoved, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+initUnmovedTriangulation completed, Current maximum memory usage across all processors: 2.268398666381835938e+01 GB out of 5.031980056762695312e+02
+
+
+initUnmovedTriangulation completed, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+moveMeshToAtoms completed, Current maximum memory usage across all processors: 2.268398666381835938e+01 GB out of 5.031980056762695312e+02
+
+
+moveMeshToAtoms completed, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+Force initUnmoved, Current maximum memory usage across all processors: 1.657742309570312500e+01 GB out of 5.031979866027832031e+02
+
+
+Force initUnmoved, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+initUnmovedTriangulation completed, Current maximum memory usage across all processors: 1.654593276977539062e+01 GB out of 5.031980056762695312e+02
+
+
+initUnmovedTriangulation completed, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+moveMeshToAtoms completed, Current maximum memory usage across all processors: 1.654593276977539062e+01 GB out of 5.031980056762695312e+02
+
+
+moveMeshToAtoms completed, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+initUnmovedTriangulation completed, Current maximum memory usage across all processors: 1.657742309570312500e+01 GB out of 5.031979866027832031e+02
+
+
+initUnmovedTriangulation completed, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+moveMeshToAtoms completed, Current maximum memory usage across all processors: 1.657742309570312500e+01 GB out of 5.031979866027832031e+02
+
+
+moveMeshToAtoms completed, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+Finite element mesh information
+-------------------------------------------------
+FE interpolating polynomial order for Kohn-Sham eigenvalue problem: 7
+FE interpolating polynomial order for electrostatics solve: 10
+FE interpolating polynomial order for nodal electron density computation: 10
+number of elements: 9264
+number of degrees of freedom for the Kohn-Sham eigenvalue problem : 3276238
+Minimum mesh size: 9.604516097290756171e-01
+-------------------------------------------------
+
+-----------------------------------------------------------------------------
+Rough estimate of peak memory requirement (RAM) total: 4.890202527999999802e+02 GB.
+Rough estimate of peak memory requirement (RAM) per MPI task: 2.037584386666666703e+01 GB.
+DFT-FE Message: many of the memory optimizations implemented
+in DFT-FE are useful only for larger system sizes.
+-----------------------------------------------------------------------------
+
+Dofs distributed again, Current maximum memory usage across all processors: 2.268446731567382812e+01 GB out of 5.031980056762695312e+02
+
+
+Dofs distributed again, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+Dofs distributed again, Current maximum memory usage across all processors: 1.654689407348632812e+01 GB out of 5.031980056762695312e+02
+
+
+Dofs distributed again, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+Dofs distributed again, Current maximum memory usage across all processors: 1.657814407348632812e+01 GB out of 5.031979866027832031e+02
+
+
+Dofs distributed again, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+Dofs distributed again, Current maximum memory usage across all processors: 1.741244888305664062e+01 GB out of 5.031979866027832031e+02
+
+
+Dofs distributed again, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+initBoundaryConditions: Time taken for creating dofhandler related objects: 1.854802129998915916e-01
+
+Created support points, Current maximum memory usage across all processors: 2.268526077270507812e+01 GB out of 5.031980056762695312e+02
+
+
+Created support points, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+Created support points, Current maximum memory usage across all processors: 1.741389083862304688e+01 GB out of 5.031979866027832031e+02
+
+
+Created support points, Current maximum memory usage across all processors: 1.657958602905273438e+01 GB out of 5.031979866027832031e+02
+
+
+Created support points, Current maximum memory usage across all processors: 1.655336761474609375e+01 GB out of 5.031980056762695312e+02
+
+
+Created support points, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+Created support points, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+Created support points, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+Called force init moved, Current maximum memory usage across all processors: 1.655336761474609375e+01 GB out of 5.031980056762695312e+02
+
+
+Called force init moved, Current maximum memory usage across all processors: 1.657958602905273438e+01 GB out of 5.031979866027832031e+02
+
+
+Called force init moved, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+Called force init moved, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+
+Called force init moved, Current maximum memory usage across all processors: 2.268526077270507812e+01 GB out of 5.031980056762695312e+02
+
+
+Called force init moved, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+initBoundaryConditions: Time taken for force init moved: 2.387990999977773754e-03
+
+Called force init moved, Current maximum memory usage across all processors: 1.741389083862304688e+01 GB out of 5.031979866027832031e+02
+
+
+Called force init moved, Current maximum GPU memory usage across all tasks: 4.260253906250000000e-01 GB out of 3.939385986328125000e+01
+
+initBoundaryConditions: Time taken for matrix free reinit: 1.064102515200011112e+01
+
+Called matrix free reinit, Current maximum memory usage across all processors: 3.196287918090820312e+01 GB out of 5.031980056762695312e+02
+
+
+Called matrix free reinit, Current maximum GPU memory usage across all tasks: 5.183837890625000000e+00 GB out of 3.939385986328125000e+01
+
+
+Called matrix free reinit, Current maximum memory usage across all processors: 2.669544219970703125e+01 GB out of 5.031979866027832031e+02
+
+
+Called matrix free reinit, Current maximum memory usage across all processors: 2.575196838378906250e+01 GB out of 5.031979866027832031e+02
+
+
+Called matrix free reinit, Current maximum memory usage across all processors: 2.584766006469726562e+01 GB out of 5.031980056762695312e+02
+
+
+Called matrix free reinit, Current maximum GPU memory usage across all tasks: 5.183837890625000000e+00 GB out of 3.939385986328125000e+01
+
+
+Called matrix free reinit, Current maximum GPU memory usage across all tasks: 5.183837890625000000e+00 GB out of 3.939385986328125000e+01
+
+
+Called matrix free reinit, Current maximum GPU memory usage across all tasks: 5.183837890625000000e+00 GB out of 3.939385986328125000e+01
+
+Volume of the domain (Bohr^3): 1.544335450952851716e+04
+Determining the ball radius around the atom for nuclear self-potential solve... 
+...Adaptively set ball radius: 4.000000000000000000e+00
+number bins: 16
+bin 0: number of global atoms: 2
+Reduced ball radius for setting boundary conditions taking hanging nodes into consideration: 4.000000000000000000e+00
+bin 1: number of global atoms: 2
+Reduced ball radius for setting boundary conditions taking hanging nodes into consideration: 4.000000000000000000e+00
+bin 2: number of global atoms: 2
+Reduced ball radius for setting boundary conditions taking hanging nodes into consideration: 4.000000000000000000e+00
+bin 3: number of global atoms: 2
+Reduced ball radius for setting boundary conditions taking hanging nodes into consideration: 4.000000000000000000e+00
+bin 4: number of global atoms: 2
+Reduced ball radius for setting boundary conditions taking hanging nodes into consideration: 4.000000000000000000e+00
+bin 5: number of global atoms: 2
+Reduced ball radius for setting boundary conditions taking hanging nodes into consideration: 4.000000000000000000e+00
+bin 6: number of global atoms: 2
+Reduced ball radius for setting boundary conditions taking hanging nodes into consideration: 4.000000000000000000e+00
+bin 7: number of global atoms: 2
+Reduced ball radius for setting boundary conditions taking hanging nodes into consideration: 4.000000000000000000e+00
+bin 8: number of global atoms: 1
+Reduced ball radius for setting boundary conditions taking hanging nodes into consideration: 4.000000000000000000e+00
+bin 9: number of global atoms: 1
+Reduced ball radius for setting boundary conditions taking hanging nodes into consideration: 4.000000000000000000e+00
+bin 10: number of global atoms: 1
+Reduced ball radius for setting boundary conditions taking hanging nodes into consideration: 4.000000000000000000e+00
+bin 11: number of global atoms: 1
+Reduced ball radius for setting boundary conditions taking hanging nodes into consideration: 4.000000000000000000e+00
+bin 12: number of global atoms: 1
+Reduced ball radius for setting boundary conditions taking hanging nodes into consideration: 4.000000000000000000e+00
+bin 13: number of global atoms: 1
+Reduced ball radius for setting boundary conditions taking hanging nodes into consideration: 4.000000000000000000e+00
+bin 14: number of global atoms: 1
+Reduced ball radius for setting boundary conditions taking hanging nodes into consideration: 4.000000000000000000e+00
+bin 15: number of global atoms: 1
+Reduced ball radius for setting boundary conditions taking hanging nodes into consideration: 4.000000000000000000e+00
+
+
++-------------------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start              | 5.295e+01s |            |
+|                                                       |            |            |
+| Section                                   | no. calls |  wall time | % of total |
++-------------------------------------------+-----------+------------+------------+
+| create bins: find nodes inside atom balls |         1 | 1.530e-01s |  2.89e-01% |
+| create bins: initial overheads            |         1 | 1.646e-01s |  3.11e-01% |
+| create bins: local interaction maps       |         1 | 1.066e-03s | 0.000e+00% |
+| create bins: put in bins                  |         1 | 2.750e-03s | 0.000e+00% |
+| create bins: sanity check                 |         1 | 1.689e+00s |  3.19e+00% |
+| create bins: set boundary conditions      |         1 | 5.093e+01s |  9.62e+01% |
++-------------------------------------------+-----------+------------+------------+
+
+Create atom bins, wall time: 52.9641s.
+updateAtomPositionsAndMoveMesh: initBoundaryConditions: Time taken for bins update: 5.321297043799995663e+01
+initBoundaryConditions: Time taken for initpRefinedObjects: 5.886045238999986395e+01
+moved setup, wall time: 69.701s.
+
+initBoundaryConditions completed, Current maximum memory usage across all processors: 6.926565170288085938e+01 GB out of 5.031980056762695312e+02
+
+
+initBoundaryConditions completed, Current maximum GPU memory usage across all tasks: 1.698657226562500000e+01 GB out of 3.939385986328125000e+01
+
+
+initBoundaryConditions completed, Current maximum memory usage across all processors: 6.562965011596679688e+01 GB out of 5.031979866027832031e+02
+
+
+initBoundaryConditions completed, Current maximum memory usage across all processors: 6.588403701782226562e+01 GB out of 5.031980056762695312e+02
+
+
+initBoundaryConditions completed, Current maximum GPU memory usage across all tasks: 1.698657226562500000e+01 GB out of 3.939385986328125000e+01
+
+
+initBoundaryConditions completed, Current maximum GPU memory usage across all tasks: 1.698657226562500000e+01 GB out of 3.939385986328125000e+01
+
+
+initBoundaryConditions completed, Current maximum memory usage across all processors: 6.459669113159179688e+01 GB out of 5.031979866027832031e+02
+
+
+initBoundaryConditions completed, Current maximum GPU memory usage across all tasks: 1.698657226562500000e+01 GB out of 3.939385986328125000e+01
+
+
+Overloaded constraint matrices initialized, Current maximum memory usage across all processors: 6.591320037841796875e+01 GB out of 5.031980056762695312e+02
+
+
+Overloaded constraint matrices initialized, Current maximum memory usage across all processors: 6.936637115478515625e+01 GB out of 5.031980056762695312e+02
+
+
+Overloaded constraint matrices initialized, Current maximum GPU memory usage across all tasks: 1.698657226562500000e+01 GB out of 3.939385986328125000e+01
+
+
+Overloaded constraint matrices initialized, Current maximum GPU memory usage across all tasks: 1.698657226562500000e+01 GB out of 3.939385986328125000e+01
+
+
+Overloaded constraint matrices initialized, Current maximum memory usage across all processors: 6.565861129760742188e+01 GB out of 5.031979866027832031e+02
+
+
+Overloaded constraint matrices initialized, Current maximum GPU memory usage across all tasks: 1.698657226562500000e+01 GB out of 3.939385986328125000e+01
+
+
+Overloaded constraint matrices initialized, Current maximum memory usage across all processors: 6.464247131347656250e+01 GB out of 5.031979866027832031e+02
+
+
+Overloaded constraint matrices initialized, Current maximum GPU memory usage across all tasks: 1.698657226562500000e+01 GB out of 3.939385986328125000e+01
+
+
+Created flattened array eigenvectors before update ghost values, Current maximum memory usage across all processors: 8.526581192016601562e+01 GB out of 5.031980056762695312e+02
+
+
+Created flattened array eigenvectors before update ghost values, Current maximum GPU memory usage across all tasks: 1.698657226562500000e+01 GB out of 3.939385986328125000e+01
+
+
+Created flattened array eigenvectors before update ghost values, Current maximum memory usage across all processors: 8.465462112426757812e+01 GB out of 5.031979866027832031e+02
+
+
+Created flattened array eigenvectors before update ghost values, Current maximum GPU memory usage across all tasks: 1.698657226562500000e+01 GB out of 3.939385986328125000e+01
+
+
+Setting initial guess for wavefunctions....
+
+Created flattened array eigenvectors before update ghost values, Current maximum memory usage across all processors: 9.136777496337890625e+01 GB out of 5.031980056762695312e+02
+
+
+Created flattened array eigenvectors before update ghost values, Current maximum GPU memory usage across all tasks: 1.698657226562500000e+01 GB out of 3.939385986328125000e+01
+
+
+Created flattened array eigenvectors before update ghost values, Current maximum memory usage across all processors: 8.662221527099609375e+01 GB out of 5.031979866027832031e+02
+
+
+Created flattened array eigenvectors before update ghost values, Current maximum GPU memory usage across all tasks: 1.698657226562500000e+01 GB out of 3.939385986328125000e+01
+
+Number of wavefunctions generated randomly to be used as initial guess for starting the SCF : 200
+
+Created flattened array eigenvectors, Current maximum memory usage across all processors: 8.526581192016601562e+01 GB out of 5.031980056762695312e+02
+
+
+Created flattened array eigenvectors, Current maximum GPU memory usage across all tasks: 1.698657226562500000e+01 GB out of 3.939385986328125000e+01
+
+
+Created flattened array eigenvectors, Current maximum memory usage across all processors: 8.465430450439453125e+01 GB out of 5.031979866027832031e+02
+
+
+Created flattened array eigenvectors, Current maximum GPU memory usage across all tasks: 1.698657226562500000e+01 GB out of 3.939385986328125000e+01
+
+
+Created flattened array eigenvectors, Current maximum memory usage across all processors: 8.662998580932617188e+01 GB out of 5.031979866027832031e+02
+
+
+Created flattened array eigenvectors, Current maximum GPU memory usage across all tasks: 1.698657226562500000e+01 GB out of 3.939385986328125000e+01
+
+=============================================================================================================================
+number of electrons: 336
+number of eigen values: 200
+=============================================================================================================================
+initialize wave functions, wall time: 1.26381s.
+
+Created flattened array eigenvectors, Current maximum memory usage across all processors: 9.136736297607421875e+01 GB out of 5.031980056762695312e+02
+
+
+Created flattened array eigenvectors, Current maximum GPU memory usage across all tasks: 1.698657226562500000e+01 GB out of 3.939385986328125000e+01
+
+
+Reading initial guess for electron-density.....
+
+initRho called, Current maximum memory usage across all processors: 8.529438400268554688e+01 GB out of 5.031980056762695312e+02
+
+
+initRho called, Current maximum GPU memory usage across all tasks: 1.698657226562500000e+01 GB out of 3.939385986328125000e+01
+
+initial total charge before normalizing to number of electrons: 3.359999442272746251e+02
+Initial total charge: 3.360000000000021600e+02
+initialize density, wall time: 10.8454s.
+
+initRho called, Current maximum memory usage across all processors: 9.139628219604492188e+01 GB out of 5.031980056762695312e+02
+
+
+initRho called, Current maximum GPU memory usage across all tasks: 1.698657226562500000e+01 GB out of 3.939385986328125000e+01
+
+
+initRho called, Current maximum memory usage across all processors: 8.666370010375976562e+01 GB out of 5.031979866027832031e+02
+
+
+initRho called, Current maximum GPU memory usage across all tasks: 1.698657226562500000e+01 GB out of 3.939385986328125000e+01
+
+
+initRho called, Current maximum memory usage across all processors: 8.467622375488281250e+01 GB out of 5.031979866027832031e+02
+
+
+initRho called, Current maximum GPU memory usage across all tasks: 1.698657226562500000e+01 GB out of 3.939385986328125000e+01
+
+
+initElectronicFields completed, Current maximum memory usage across all processors: 8.529414367675781250e+01 GB out of 5.031980056762695312e+02
+
+
+initElectronicFields completed, Current maximum GPU memory usage across all tasks: 2.203930664062500000e+01 GB out of 3.939385986328125000e+01
+
+init electronic fields, wall time: 13.457s.
+
+initElectronicFields completed, Current maximum memory usage across all processors: 9.139030838012695312e+01 GB out of 5.031980056762695312e+02
+
+
+initElectronicFields completed, Current maximum GPU memory usage across all tasks: 2.245922851562500000e+01 GB out of 3.939385986328125000e+01
+
+
+Pseudopotential initalization....
+
+initElectronicFields completed, Current maximum memory usage across all processors: 8.467659759521484375e+01 GB out of 5.031979866027832031e+02
+
+
+initElectronicFields completed, Current maximum GPU memory usage across all tasks: 2.203930664062500000e+01 GB out of 3.939385986328125000e+01
+
+
+Reading data for core electron-density to be used in nonlinear core-correction.....
+ Atomic number: 31 Outermost Point Core Den: 3.100000000000000089e+00
+ Atomic number: 33 Outermost Point Core Den: 3.020000000000000018e+00
+
+initElectronicFields completed, Current maximum memory usage across all processors: 8.666345977783203125e+01 GB out of 5.031979866027832031e+02
+
+
+initElectronicFields completed, Current maximum GPU memory usage across all tasks: 2.245922851562500000e+01 GB out of 3.939385986328125000e+01
+
+initPseudoPotentialAll: Time taken for initializing core density for non-linear core correction: 2.464353640000354062e-01
+ONCVclass: Time taken for computeSparseStructureNonLocalProjectors: 6.231665689999772439e-01
+ONCVclass: Time taken for computeSparseStructureNonLocalProjectors: 6.240574139999353065e-01
+ONCVclass: Time taken for computeSparseStructureNonLocalProjectors: 6.259059469998646819e-01
+ONCVclass: Time taken for computeSparseStructureNonLocalProjectors: 6.266979780000383471e-01
+ONCVclass: Time taken for non local psp init: 1.631377059500005089e+01
+
+initPseudopotential completed, Current maximum memory usage across all processors: 1.252023200988769531e+02 GB out of 5.031979866027832031e+02
+
+
+initPseudopotential completed, Current maximum GPU memory usage across all tasks: 2.203930664062500000e+01 GB out of 3.939385986328125000e+01
+
+ONCVclass: Time taken for non local psp init: 1.672170500699985496e+01
+
+initPseudopotential completed, Current maximum memory usage across all processors: 1.265801391601562500e+02 GB out of 5.031980056762695312e+02
+
+
+initPseudopotential completed, Current maximum GPU memory usage across all tasks: 2.203930664062500000e+01 GB out of 3.939385986328125000e+01
+
+ONCVclass: Time taken for non local psp init: 1.743805190100010805e+01
+
+initPseudopotential completed, Current maximum memory usage across all processors: 1.319745826721191406e+02 GB out of 5.031979866027832031e+02
+
+
+initPseudopotential completed, Current maximum GPU memory usage across all tasks: 2.245922851562500000e+01 GB out of 3.939385986328125000e+01
+
+ONCVclass: Time taken for non local psp init: 1.778068559499979528e+01
+psp init, wall time: 18.6862s.
+
+initPseudopotential completed, Current maximum memory usage across all processors: 1.322797012329101562e+02 GB out of 5.031980056762695312e+02
+
+
+initPseudopotential completed, Current maximum GPU memory usage across all tasks: 2.245922851562500000e+01 GB out of 3.939385986328125000e+01
+
+init: Time taken for kohnShamDFTOperator class initialization: 9.063192399980835035e-02
+kohnShamDFTOperator init, wall time: 0.0906689s.
+KSDFT problem initialization, wall time: 104.001s.
+Computing External Electric Potential at density quadrature points using: SAWTOOTH_POTENTIAL function...
+ Time taken for smeared charge initialization for current bin: 6.526742000005469890e-03
+ Time taken for smeared charge initialization for current bin: 5.710171999908197904e-03
+ Time taken for smeared charge initialization for current bin: 5.718438000030801049e-03
+ Time taken for smeared charge initialization for current bin: 5.900609000036638463e-03
+ Time taken for smeared charge initialization for current bin: 6.355571000085546984e-03
+ Time taken for smeared charge initialization for current bin: 5.950412000174765126e-03
+ Time taken for smeared charge initialization for current bin: 6.507946000056108460e-03
+ Time taken for smeared charge initialization for current bin: 5.735429999958796543e-03
+ Time taken for smeared charge initialization for current bin: 4.495817999895734829e-03
+ Time taken for smeared charge initialization for current bin: 2.635695999970266712e-03
+ Time taken for smeared charge initialization for current bin: 2.650432999871554784e-03
+ Time taken for smeared charge initialization for current bin: 4.473836999977720552e-03
+ Time taken for smeared charge initialization for current bin: 4.533078000122259255e-03
+ Time taken for smeared charge initialization for current bin: 2.665812000032019569e-03
+ Time taken for smeared charge initialization for current bin: 4.479037999999491149e-03
+ Time taken for smeared charge initialization for current bin: 2.580270999942513299e-03
+Solve vself in bins: time for smeared charge initialization, compute rhs and diagonal: 3.905061370000112220e+00
+Solve vself in bins: time for smeared charge initialization, compute rhs and diagonal: 3.905060787000138589e+00
+Solve vself in bins: time for smeared charge initialization, compute rhs and diagonal: 3.905062224999937825e+00
+Solve vself in bins: time for smeared charge initialization, compute rhs and diagonal: 3.905059331000074963e+00
+ poissonDevice::solveVselfInBins: time for creating xD: 3.508596999995461374e-02
+ poissonDevice::solveVselfInBins: time for mem allocation: 3.345610900009887700e-02
+ poissonDevice::solveVselfInBins: time for Device CG solver memory allocation: 7.420684699991397792e-02
+Device based Linear Conjugate Gradient solver for bin: 0 started with residual norm squared: 3.085463910184997189e+02
+Device based Linear Conjugate Gradient solver for bin: 1 started with residual norm squared: 1.415025315977063691e+01
+Device based Linear Conjugate Gradient solver for bin: 2 started with residual norm squared: 1.390284872963253626e+01
+Device based Linear Conjugate Gradient solver for bin: 3 started with residual norm squared: 1.346552894250464405e+01
+Device based Linear Conjugate Gradient solver for bin: 4 started with residual norm squared: 3.634416652744566818e+02
+Device based Linear Conjugate Gradient solver for bin: 5 started with residual norm squared: 1.796361693961256378e+01
+Device based Linear Conjugate Gradient solver for bin: 6 started with residual norm squared: 1.649584962826921952e+01
+Device based Linear Conjugate Gradient solver for bin: 7 started with residual norm squared: 1.591050260840982666e+01
+Device based Linear Conjugate Gradient solver for bin: 8 started with residual norm squared: 3.634416640789039548e+02
+Device based Linear Conjugate Gradient solver for bin: 9 started with residual norm squared: 1.796350640217920258e+01
+Device based Linear Conjugate Gradient solver for bin: 10 started with residual norm squared: 1.649583600491568447e+01
+Device based Linear Conjugate Gradient solver for bin: 11 started with residual norm squared: 1.591049896056173374e+01
+Device based Linear Conjugate Gradient solver for bin: 12 started with residual norm squared: 3.085463929735340116e+02
+Device based Linear Conjugate Gradient solver for bin: 13 started with residual norm squared: 1.415017325350100208e+01
+Device based Linear Conjugate Gradient solver for bin: 14 started with residual norm squared: 1.390285090824074743e+01
+Device based Linear Conjugate Gradient solver for bin: 15 started with residual norm squared: 1.346553480973629036e+01
+Device based Linear Conjugate Gradient solver for bin: 16 started with residual norm squared: 3.634416596616452466e+02
+Device based Linear Conjugate Gradient solver for bin: 17 started with residual norm squared: 1.796350304103709661e+01
+Device based Linear Conjugate Gradient solver for bin: 18 started with residual norm squared: 1.649584337456637329e+01
+Device based Linear Conjugate Gradient solver for bin: 19 started with residual norm squared: 1.591049002122534262e+01
+Device based Linear Conjugate Gradient solver for bin: 20 started with residual norm squared: 3.085463937927860343e+02
+Device based Linear Conjugate Gradient solver for bin: 21 started with residual norm squared: 1.415024159358011957e+01
+Device based Linear Conjugate Gradient solver for bin: 22 started with residual norm squared: 1.390285177559497853e+01
+Device based Linear Conjugate Gradient solver for bin: 23 started with residual norm squared: 1.346553726837077214e+01
+Device based Linear Conjugate Gradient solver for bin: 24 started with residual norm squared: 3.634416669376190043e+02
+Device based Linear Conjugate Gradient solver for bin: 25 started with residual norm squared: 1.796349974142702521e+01
+Device based Linear Conjugate Gradient solver for bin: 26 started with residual norm squared: 1.649583957836128434e+01
+Device based Linear Conjugate Gradient solver for bin: 27 started with residual norm squared: 1.591050648894665542e+01
+Device based Linear Conjugate Gradient solver for bin: 28 started with residual norm squared: 3.085463910184996621e+02
+Device based Linear Conjugate Gradient solver for bin: 29 started with residual norm squared: 1.415025315977066178e+01
+Device based Linear Conjugate Gradient solver for bin: 30 started with residual norm squared: 1.390284872627801960e+01
+Device based Linear Conjugate Gradient solver for bin: 31 started with residual norm squared: 1.346552894250466004e+01
+Device based Linear Conjugate Gradient solver for bin: 32 started with residual norm squared: 2.089951821107462706e+02
+Device based Linear Conjugate Gradient solver for bin: 33 started with residual norm squared: 1.041272415064959667e+01
+Device based Linear Conjugate Gradient solver for bin: 34 started with residual norm squared: 9.572061967878395805e+00
+Device based Linear Conjugate Gradient solver for bin: 35 started with residual norm squared: 9.084868593152046756e+00
+Device based Linear Conjugate Gradient solver for bin: 36 started with residual norm squared: 1.975980205590991545e+02
+Device based Linear Conjugate Gradient solver for bin: 37 started with residual norm squared: 8.585949693672956684e+00
+Device based Linear Conjugate Gradient solver for bin: 38 started with residual norm squared: 8.736527997154867720e+00
+Device based Linear Conjugate Gradient solver for bin: 39 started with residual norm squared: 8.233904147343645619e+00
+Device based Linear Conjugate Gradient solver for bin: 40 started with residual norm squared: 1.975980205590933565e+02
+Device based Linear Conjugate Gradient solver for bin: 41 started with residual norm squared: 8.585958509269687511e+00
+Device based Linear Conjugate Gradient solver for bin: 42 started with residual norm squared: 8.736527997426092540e+00
+Device based Linear Conjugate Gradient solver for bin: 43 started with residual norm squared: 8.233904147333319656e+00
+Device based Linear Conjugate Gradient solver for bin: 44 started with residual norm squared: 2.089951804425820399e+02
+Device based Linear Conjugate Gradient solver for bin: 45 started with residual norm squared: 1.041275293440154925e+01
+Device based Linear Conjugate Gradient solver for bin: 46 started with residual norm squared: 9.572076153027133216e+00
+Device based Linear Conjugate Gradient solver for bin: 47 started with residual norm squared: 9.084865217231298473e+00
+Device based Linear Conjugate Gradient solver for bin: 48 started with residual norm squared: 2.089951812907982571e+02
+Device based Linear Conjugate Gradient solver for bin: 49 started with residual norm squared: 1.041272574521726391e+01
+Device based Linear Conjugate Gradient solver for bin: 50 started with residual norm squared: 9.572061116666958469e+00
+Device based Linear Conjugate Gradient solver for bin: 51 started with residual norm squared: 9.084866933812257628e+00
+Device based Linear Conjugate Gradient solver for bin: 52 started with residual norm squared: 1.975980205590932428e+02
+Device based Linear Conjugate Gradient solver for bin: 53 started with residual norm squared: 8.585958509269683958e+00
+Device based Linear Conjugate Gradient solver for bin: 54 started with residual norm squared: 8.736527997150986380e+00
+Device based Linear Conjugate Gradient solver for bin: 55 started with residual norm squared: 8.233904147333312551e+00
+Device based Linear Conjugate Gradient solver for bin: 56 started with residual norm squared: 2.089951762297778259e+02
+Device based Linear Conjugate Gradient solver for bin: 57 started with residual norm squared: 1.041271967543191579e+01
+Device based Linear Conjugate Gradient solver for bin: 58 started with residual norm squared: 9.572071779563428251e+00
+Device based Linear Conjugate Gradient solver for bin: 59 started with residual norm squared: 9.084856691680094798e+00
+Device based Linear Conjugate Gradient solver for bin: 60 started with residual norm squared: 1.975980205590933565e+02
+Device based Linear Conjugate Gradient solver for bin: 61 started with residual norm squared: 8.585958509268815320e+00
+Device based Linear Conjugate Gradient solver for bin: 62 started with residual norm squared: 8.736527997425978853e+00
+Device based Linear Conjugate Gradient solver for bin: 63 started with residual norm squared: 8.233904147333326762e+00
+Linear Conjugate Gradient solver for bin: 0 converged after 632 iterations. with residual norm squared 2.755972822451996891e-22
+Linear Conjugate Gradient solver for bin: 1 converged after 632 iterations. with residual norm squared 7.075754458429310325e-23
+Linear Conjugate Gradient solver for bin: 2 converged after 632 iterations. with residual norm squared 6.984452626430242142e-23
+Linear Conjugate Gradient solver for bin: 3 converged after 632 iterations. with residual norm squared 8.877130455045422362e-22
+Linear Conjugate Gradient solver for bin: 4 converged after 632 iterations. with residual norm squared 3.339969097455818887e-22
+Linear Conjugate Gradient solver for bin: 5 converged after 632 iterations. with residual norm squared 7.284065669142800996e-22
+Linear Conjugate Gradient solver for bin: 6 converged after 632 iterations. with residual norm squared 4.947763052527608136e-22
+Linear Conjugate Gradient solver for bin: 7 converged after 632 iterations. with residual norm squared 5.127734988152276627e-22
+Linear Conjugate Gradient solver for bin: 8 converged after 632 iterations. with residual norm squared 3.338231029398440956e-22
+Linear Conjugate Gradient solver for bin: 9 converged after 632 iterations. with residual norm squared 7.283710748052580002e-22
+Linear Conjugate Gradient solver for bin: 10 converged after 632 iterations. with residual norm squared 4.948996343847501846e-22
+Linear Conjugate Gradient solver for bin: 11 converged after 632 iterations. with residual norm squared 5.115064652569380743e-22
+Linear Conjugate Gradient solver for bin: 12 converged after 632 iterations. with residual norm squared 2.756401169252070801e-22
+Linear Conjugate Gradient solver for bin: 13 converged after 632 iterations. with residual norm squared 7.075508600382281289e-23
+Linear Conjugate Gradient solver for bin: 14 converged after 632 iterations. with residual norm squared 6.985953252997165728e-23
+Linear Conjugate Gradient solver for bin: 15 converged after 632 iterations. with residual norm squared 8.961439355759672746e-22
+Linear Conjugate Gradient solver for bin: 16 converged after 632 iterations. with residual norm squared 3.340556228909247444e-22
+Linear Conjugate Gradient solver for bin: 17 converged after 632 iterations. with residual norm squared 7.287212805719027344e-22
+Linear Conjugate Gradient solver for bin: 18 converged after 632 iterations. with residual norm squared 4.950932156887872546e-22
+Linear Conjugate Gradient solver for bin: 19 converged after 632 iterations. with residual norm squared 5.116835646607358907e-22
+Linear Conjugate Gradient solver for bin: 20 converged after 632 iterations. with residual norm squared 2.756268018998754598e-22
+Linear Conjugate Gradient solver for bin: 21 converged after 632 iterations. with residual norm squared 7.075760978917159511e-23
+Linear Conjugate Gradient solver for bin: 22 converged after 632 iterations. with residual norm squared 6.984188809639669336e-23
+Linear Conjugate Gradient solver for bin: 23 converged after 632 iterations. with residual norm squared 8.955514563010717337e-22
+Linear Conjugate Gradient solver for bin: 24 converged after 632 iterations. with residual norm squared 3.339286736295757401e-22
+Linear Conjugate Gradient solver for bin: 25 converged after 632 iterations. with residual norm squared 7.286311890491149821e-22
+Linear Conjugate Gradient solver for bin: 26 converged after 632 iterations. with residual norm squared 4.952001069687506475e-22
+Linear Conjugate Gradient solver for bin: 27 converged after 632 iterations. with residual norm squared 5.119354310274813910e-22
+Linear Conjugate Gradient solver for bin: 28 converged after 632 iterations. with residual norm squared 2.754934654169877709e-22
+Linear Conjugate Gradient solver for bin: 29 converged after 632 iterations. with residual norm squared 7.075171046983211723e-23
+Linear Conjugate Gradient solver for bin: 30 converged after 632 iterations. with residual norm squared 6.984225071700708975e-23
+Linear Conjugate Gradient solver for bin: 31 converged after 632 iterations. with residual norm squared 8.878675879566726528e-22
+Linear Conjugate Gradient solver for bin: 32 converged after 632 iterations. with residual norm squared 1.055301103866904687e-25
+Linear Conjugate Gradient solver for bin: 33 converged after 632 iterations. with residual norm squared 8.868302653784533697e-24
+Linear Conjugate Gradient solver for bin: 34 converged after 632 iterations. with residual norm squared 5.126485886207611225e-24
+Linear Conjugate Gradient solver for bin: 35 converged after 632 iterations. with residual norm squared 1.163111631329394649e-24
+Linear Conjugate Gradient solver for bin: 36 converged after 632 iterations. with residual norm squared 7.268753714343139103e-27
+Linear Conjugate Gradient solver for bin: 37 converged after 632 iterations. with residual norm squared 5.830251327140806666e-26
+Linear Conjugate Gradient solver for bin: 38 converged after 632 iterations. with residual norm squared 8.041869108602416477e-26
+Linear Conjugate Gradient solver for bin: 39 converged after 632 iterations. with residual norm squared 1.772876403145988770e-26
+Linear Conjugate Gradient solver for bin: 40 converged after 632 iterations. with residual norm squared 4.164257969056257021e-27
+Linear Conjugate Gradient solver for bin: 41 converged after 632 iterations. with residual norm squared 5.212748626730336357e-27
+Linear Conjugate Gradient solver for bin: 42 converged after 632 iterations. with residual norm squared 4.409800305826371870e-27
+Linear Conjugate Gradient solver for bin: 43 converged after 632 iterations. with residual norm squared 1.786694137389308292e-26
+Linear Conjugate Gradient solver for bin: 44 converged after 632 iterations. with residual norm squared 1.070658452913013771e-25
+Linear Conjugate Gradient solver for bin: 45 converged after 632 iterations. with residual norm squared 8.895294582915319434e-24
+Linear Conjugate Gradient solver for bin: 46 converged after 632 iterations. with residual norm squared 5.139301140509634591e-24
+Linear Conjugate Gradient solver for bin: 47 converged after 632 iterations. with residual norm squared 1.161958746183516964e-24
+Linear Conjugate Gradient solver for bin: 48 converged after 632 iterations. with residual norm squared 1.066032504944291729e-25
+Linear Conjugate Gradient solver for bin: 49 converged after 632 iterations. with residual norm squared 8.913143206002533764e-24
+Linear Conjugate Gradient solver for bin: 50 converged after 632 iterations. with residual norm squared 5.145195442159956403e-24
+Linear Conjugate Gradient solver for bin: 51 converged after 632 iterations. with residual norm squared 1.164156182130592265e-24
+Linear Conjugate Gradient solver for bin: 52 converged after 632 iterations. with residual norm squared 4.437149606376579243e-27
+Linear Conjugate Gradient solver for bin: 53 converged after 632 iterations. with residual norm squared 5.260033524910524853e-27
+Linear Conjugate Gradient solver for bin: 54 converged after 632 iterations. with residual norm squared 4.606980818273322947e-27
+Linear Conjugate Gradient solver for bin: 55 converged after 632 iterations. with residual norm squared 1.764765475829343817e-26
+Linear Conjugate Gradient solver for bin: 56 converged after 632 iterations. with residual norm squared 1.052571851959607208e-25
+Linear Conjugate Gradient solver for bin: 57 converged after 632 iterations. with residual norm squared 8.931627056482442297e-24
+Linear Conjugate Gradient solver for bin: 58 converged after 632 iterations. with residual norm squared 5.124557238265782280e-24
+Linear Conjugate Gradient solver for bin: 59 converged after 632 iterations. with residual norm squared 1.160354493878198174e-24
+Linear Conjugate Gradient solver for bin: 60 converged after 632 iterations. with residual norm squared 4.430869480996884045e-27
+Linear Conjugate Gradient solver for bin: 61 converged after 632 iterations. with residual norm squared 5.102858306502902957e-27
+Linear Conjugate Gradient solver for bin: 62 converged after 632 iterations. with residual norm squared 4.522833626051074341e-27
+Linear Conjugate Gradient solver for bin: 63 converged after 632 iterations. with residual norm squared 1.760909735745963216e-26
+ poissonDevice::solveVselfInBins: time for Poisson problem iterations: 1.274926324700004443e+01
+Solve vself in bins: time for poissonDevice::solveVselfInBins : 1.318033801900014623e+01
+Solve vself in bins: time for poissonDevice::solveVselfInBins : 1.318034344900001997e+01
+Solve vself in bins: time for poissonDevice::solveVselfInBins : 1.318033559700006663e+01
+Solve vself in bins: time for poissonDevice::solveVselfInBins : 1.318034225100018375e+01
+ Time taken for vself self energy for current bin: 1.248077000127523206e-03
+ Time taken for vself self energy for current bin: 1.409288999866475933e-03
+ Time taken for vself self energy for current bin: 1.378901999942172552e-03
+ Time taken for vself self energy for current bin: 1.354787000082069426e-03
+ Time taken for vself self energy for current bin: 1.519846000064717373e-03
+ Time taken for vself self energy for current bin: 1.354356000092593604e-03
+ Time taken for vself self energy for current bin: 1.478338999959305511e-03
+ Time taken for vself self energy for current bin: 1.345780000065133208e-03
+ Time taken for vself self energy for current bin: 1.053163000051426934e-03
+ Time taken for vself self energy for current bin: 5.702679998194071231e-04
+ Time taken for vself self energy for current bin: 5.709990000468678772e-04
+ Time taken for vself self energy for current bin: 1.050777000045854948e-03
+ Time taken for vself self energy for current bin: 1.053844000125536695e-03
+ Time taken for vself self energy for current bin: 5.652179997923667543e-04
+ Time taken for vself self energy for current bin: 1.069633000042813364e-03
+ Time taken for vself self energy for current bin: 5.877710000277147628e-04
+Solve vself in bins: time for updating d_vselfFieldBins : 6.386057170000185579e-01
+Solve vself in bins: time for updating d_vselfFieldBins : 6.386060299998916889e-01
+Solve vself in bins: time for updating d_vselfFieldBins : 6.386075210000399238e-01
+Solve vself in bins: time for updating d_vselfFieldBins : 6.386090890000559739e-01
+Computing External Electric Potential at Nuclear quadrature points using: SAWTOOTH_POTENTIAL function...
+Nuclear self-potential solve, wall time: 18.0156s.
+Nuclear self-potential solve, wall time: 18.0158s.
+initLocalPSP, max psp tail considered: 1.000000000000000000e+01
+initLocalPSP: Time taken for init1: 8.041121070000372129e-01
+initLocalPSP: Time taken for init2: 7.408509379999941302e-01
+initLocalPSP: Time taken for init3: 6.915340089999517659e-01
+Init local PSP, wall time: 2.24244s.
+
+************************Begin Self-Consistent-Field Iteration:  1 ***********************
+density mixing, wall time: 2.864e-06s.
+
+Poisson solve for total electrostatic potential (rhoIn+b): Time for compute rhsHost and copy to Device: 4.899577800006227335e-02
+
+initial abs. residual in Device: 3.505579080667165393e+00 , current abs. residual in Device: 9.911398699110872780e-11 , nsteps: 4557 , abs. tolerance criterion in Device:  1.000000000000000036e-10
+
+Time for Device Poisson/Helmholtz problem CG iterations: 3.216045566999810035e+00
+phiTot solve, wall time: 3.27035s.
+VEff Computation, wall time: 0.40372s.
+Hamiltonian Matrix Computation, wall time: 0.219927s.
+Beginning Chebyshev filter pass 1
+kPoint: 0
+upper bound of unwanted spectrum:  2.6300000000e+03
+lower bound of unwanted spectrum:  3.2109999335e+01
+Chebyshev polynomial degree: 76
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 2.214e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 6.495e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+L-2 Norm of residue   :
+
+
+Hamiltonian Matrix Computation, wall time: 0.199175s.
+Beginning Chebyshev filter pass 1
+kPoint: 1
+upper bound of unwanted spectrum:  2.6300000000e+03
+lower bound of unwanted spectrum:  3.2109999335e+01
+Chebyshev polynomial degree: 76
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 2.221e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 5.971e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+L-2 Norm of residue   :
+
+
+Hamiltonian Matrix Computation, wall time: 0.199276s.
+Beginning Chebyshev filter pass 1
+kPoint: 2
+upper bound of unwanted spectrum:  2.6300000000e+03
+lower bound of unwanted spectrum:  3.2109999335e+01
+Chebyshev polynomial degree: 76
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 2.205e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 5.979e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+L-2 Norm of residue   :
+
+
+Hamiltonian Matrix Computation, wall time: 0.198816s.
+Beginning Chebyshev filter pass 1
+kPoint: 3
+upper bound of unwanted spectrum:  2.6300000000e+03
+lower bound of unwanted spectrum:  3.2109999335e+01
+Chebyshev polynomial degree: 76
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 2.220e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 5.996e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+L-2 Norm of residue   :
+
+
+Hamiltonian Matrix Computation, wall time: 0.198103s.
+Beginning Chebyshev filter pass 1
+kPoint: 4
+upper bound of unwanted spectrum:  2.6300000000e+03
+lower bound of unwanted spectrum:  3.2109999335e+01
+Chebyshev polynomial degree: 76
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 2.214e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 5.970e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+L-2 Norm of residue   :
+
+
+Hamiltonian Matrix Computation, wall time: 0.198691s.
+Beginning Chebyshev filter pass 1
+kPoint: 5
+upper bound of unwanted spectrum:  2.6300000000e+03
+lower bound of unwanted spectrum:  3.2109999335e+01
+Chebyshev polynomial degree: 76
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 2.207e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 6.130e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+L-2 Norm of residue   :
+
+
+Hamiltonian Matrix Computation, wall time: 0.198881s.
+Beginning Chebyshev filter pass 1
+kPoint: 6
+upper bound of unwanted spectrum:  2.6300000000e+03
+lower bound of unwanted spectrum:  3.2109999335e+01
+Chebyshev polynomial degree: 76
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 2.214e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 5.979e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+L-2 Norm of residue   :
+
+
+Hamiltonian Matrix Computation, wall time: 0.199034s.
+Beginning Chebyshev filter pass 1
+kPoint: 7
+upper bound of unwanted spectrum:  2.6300000000e+03
+lower bound of unwanted spectrum:  3.2109999335e+01
+Chebyshev polynomial degree: 76
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 2.191e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 6.023e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+L-2 Norm of residue   :
+
+
+Hamiltonian Matrix Computation, wall time: 0.199031s.
+Beginning Chebyshev filter pass 1
+kPoint: 8
+upper bound of unwanted spectrum:  2.6300000000e+03
+lower bound of unwanted spectrum:  3.2109999335e+01
+Chebyshev polynomial degree: 76
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 2.213e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 5.991e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+L-2 Norm of residue   :
+
+
+Hamiltonian Matrix Computation, wall time: 0.197936s.
+Beginning Chebyshev filter pass 1
+kPoint: 9
+upper bound of unwanted spectrum:  2.6300000000e+03
+lower bound of unwanted spectrum:  3.2109999335e+01
+Chebyshev polynomial degree: 76
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 2.211e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 5.985e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+L-2 Norm of residue   :
+
+
+Hamiltonian Matrix Computation, wall time: 0.199157s.
+Beginning Chebyshev filter pass 1
+kPoint: 10
+upper bound of unwanted spectrum:  2.6300000000e+03
+lower bound of unwanted spectrum:  3.2109999335e+01
+Chebyshev polynomial degree: 76
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 2.203e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 5.998e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+L-2 Norm of residue   :
+
+
+Hamiltonian Matrix Computation, wall time: 0.199248s.
+Beginning Chebyshev filter pass 1
+kPoint: 11
+upper bound of unwanted spectrum:  2.6300000000e+03
+lower bound of unwanted spectrum:  3.2109999335e+01
+Chebyshev polynomial degree: 76
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 2.220e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 5.994e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+L-2 Norm of residue   :
+
+
+Hamiltonian Matrix Computation, wall time: 0.198244s.
+Beginning Chebyshev filter pass 1
+kPoint: 12
+upper bound of unwanted spectrum:  2.6300000000e+03
+lower bound of unwanted spectrum:  3.2109999335e+01
+Chebyshev polynomial degree: 76
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 2.217e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 6.006e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+L-2 Norm of residue   :
+
+
+Fermi energy constraint residual (bisection): 7.730704965069890022e-12
+Fermi energy constraint residual (Newton-Raphson): 7.730704965069890022e-12
+Fermi energy                                     : 3.058488780364303494e+00
+Maximum residual norm among all states with occupation number greater than 1e-3: 2.168907857113073767e+00
+Beginning Chebyshev filter pass 2
+Hamiltonian Matrix Computation, wall time: 0.198993s.
+kPoint: 0
+upper bound of unwanted spectrum:  2.6300000000e+03
+lower bound of unwanted spectrum:  3.3301043504e+00
+Chebyshev polynomial degree: 76
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 2.016e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 6.039e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+L-2 Norm of residue   :
+
+
+Beginning Chebyshev filter pass 2
+Hamiltonian Matrix Computation, wall time: 0.198977s.
+kPoint: 1
+upper bound of unwanted spectrum:  2.6300000000e+03
+lower bound of unwanted spectrum:  3.3299804660e+00
+Chebyshev polynomial degree: 76
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 2.016e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 6.055e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+L-2 Norm of residue   :
+
+
+Beginning Chebyshev filter pass 2
+Hamiltonian Matrix Computation, wall time: 0.199709s.
+kPoint: 2
+upper bound of unwanted spectrum:  2.6300000000e+03
+lower bound of unwanted spectrum:  3.3297927852e+00
+Chebyshev polynomial degree: 76
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 2.014e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 6.030e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+L-2 Norm of residue   :
+
+
+Beginning Chebyshev filter pass 2
+Hamiltonian Matrix Computation, wall time: 0.19861s.
+kPoint: 3
+upper bound of unwanted spectrum:  2.6300000000e+03
+lower bound of unwanted spectrum:  3.3295538955e+00
+Chebyshev polynomial degree: 76
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 2.021e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 6.023e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+L-2 Norm of residue   :
+
+
+Beginning Chebyshev filter pass 2
+Hamiltonian Matrix Computation, wall time: 0.199498s.
+kPoint: 4
+upper bound of unwanted spectrum:  2.6300000000e+03
+lower bound of unwanted spectrum:  3.3292795596e+00
+Chebyshev polynomial degree: 76
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 2.010e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 6.011e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+L-2 Norm of residue   :
+
+
+Beginning Chebyshev filter pass 2
+Hamiltonian Matrix Computation, wall time: 0.199158s.
+kPoint: 5
+upper bound of unwanted spectrum:  2.6300000000e+03
+lower bound of unwanted spectrum:  3.3296776390e+00
+Chebyshev polynomial degree: 76
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 2.020e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 6.016e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+L-2 Norm of residue   :
+
+
+Beginning Chebyshev filter pass 2
+Hamiltonian Matrix Computation, wall time: 0.197811s.
+kPoint: 6
+upper bound of unwanted spectrum:  2.6300000000e+03
+lower bound of unwanted spectrum:  3.3298850978e+00
+Chebyshev polynomial degree: 76
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 2.012e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 6.030e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+L-2 Norm of residue   :
+
+
+Beginning Chebyshev filter pass 2
+Hamiltonian Matrix Computation, wall time: 0.19938s.
+kPoint: 7
+upper bound of unwanted spectrum:  2.6300000000e+03
+lower bound of unwanted spectrum:  3.3300413619e+00
+Chebyshev polynomial degree: 76
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 2.025e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 6.013e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+L-2 Norm of residue   :
+
+
+Beginning Chebyshev filter pass 2
+Hamiltonian Matrix Computation, wall time: 0.19894s.
+kPoint: 8
+upper bound of unwanted spectrum:  2.6300000000e+03
+lower bound of unwanted spectrum:  3.3301345219e+00
+Chebyshev polynomial degree: 76
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 2.016e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 6.005e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+L-2 Norm of residue   :
+
+
+Beginning Chebyshev filter pass 2
+Hamiltonian Matrix Computation, wall time: 0.198791s.
+kPoint: 9
+upper bound of unwanted spectrum:  2.6300000000e+03
+lower bound of unwanted spectrum:  3.3301565304e+00
+Chebyshev polynomial degree: 76
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 2.028e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 6.005e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+L-2 Norm of residue   :
+
+
+Beginning Chebyshev filter pass 2
+Hamiltonian Matrix Computation, wall time: 0.198959s.
+kPoint: 10
+upper bound of unwanted spectrum:  2.6300000000e+03
+lower bound of unwanted spectrum:  3.3297625436e+00
+Chebyshev polynomial degree: 76
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 2.019e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 6.019e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+L-2 Norm of residue   :
+
+
+Beginning Chebyshev filter pass 2
+Hamiltonian Matrix Computation, wall time: 0.199096s.
+kPoint: 11
+upper bound of unwanted spectrum:  2.6300000000e+03
+lower bound of unwanted spectrum:  3.3295415923e+00
+Chebyshev polynomial degree: 76
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 2.023e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 6.007e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+L-2 Norm of residue   :
+
+
+Beginning Chebyshev filter pass 2
+Hamiltonian Matrix Computation, wall time: 0.198617s.
+kPoint: 12
+upper bound of unwanted spectrum:  2.6300000000e+03
+lower bound of unwanted spectrum:  3.3292666522e+00
+Chebyshev polynomial degree: 76
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 2.022e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 5.986e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+L-2 Norm of residue   :
+
+
+Fermi energy constraint residual (bisection): 5.837819117004983127e-10
+Fermi energy constraint residual (Newton-Raphson): 5.684341886080801487e-14
+Fermi energy                                     : 6.885861248826926628e-01
+Maximum residual norm among all states with occupation number greater than 1e-3: 1.032670017680539898e+00
+Beginning Chebyshev filter pass 3
+Hamiltonian Matrix Computation, wall time: 0.197968s.
+kPoint: 0
+upper bound of unwanted spectrum:  2.6300000000e+03
+lower bound of unwanted spectrum:  8.8934775885e-01
+Chebyshev polynomial degree: 76
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 2.011e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 6.013e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+L-2 Norm of residue   :
+
+
+Beginning Chebyshev filter pass 3
+Hamiltonian Matrix Computation, wall time: 0.196522s.
+kPoint: 1
+upper bound of unwanted spectrum:  2.6300000000e+03
+lower bound of unwanted spectrum:  8.9158296127e-01
+Chebyshev polynomial degree: 76
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 2.017e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 6.013e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+L-2 Norm of residue   :
+
+
+Beginning Chebyshev filter pass 3
+Hamiltonian Matrix Computation, wall time: 0.199359s.
+kPoint: 2
+upper bound of unwanted spectrum:  2.6300000000e+03
+lower bound of unwanted spectrum:  8.9395860584e-01
+Chebyshev polynomial degree: 76
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 2.023e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 6.013e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+L-2 Norm of residue   :
+
+
+Beginning Chebyshev filter pass 3
+Hamiltonian Matrix Computation, wall time: 0.199043s.
+kPoint: 3
+upper bound of unwanted spectrum:  2.6300000000e+03
+lower bound of unwanted spectrum:  8.9602865641e-01
+Chebyshev polynomial degree: 76
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 2.019e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 6.017e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+L-2 Norm of residue   :
+
+
+Beginning Chebyshev filter pass 3
+Hamiltonian Matrix Computation, wall time: 0.19971s.
+kPoint: 4
+upper bound of unwanted spectrum:  2.6300000000e+03
+lower bound of unwanted spectrum:  8.9775011202e-01
+Chebyshev polynomial degree: 76
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 2.019e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 6.004e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+L-2 Norm of residue   :
+
+
+Beginning Chebyshev filter pass 3
+Hamiltonian Matrix Computation, wall time: 0.199638s.
+kPoint: 5
+upper bound of unwanted spectrum:  2.6300000000e+03
+lower bound of unwanted spectrum:  8.9867949205e-01
+Chebyshev polynomial degree: 76
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 2.014e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 6.028e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+L-2 Norm of residue   :
+
+
+Beginning Chebyshev filter pass 3
+Hamiltonian Matrix Computation, wall time: 0.199392s.
+kPoint: 6
+upper bound of unwanted spectrum:  2.6300000000e+03
+lower bound of unwanted spectrum:  8.9680757722e-01
+Chebyshev polynomial degree: 76
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 2.026e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 6.005e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+L-2 Norm of residue   :
+
+
+Beginning Chebyshev filter pass 3
+Hamiltonian Matrix Computation, wall time: 0.200166s.
+kPoint: 7
+upper bound of unwanted spectrum:  2.6300000000e+03
+lower bound of unwanted spectrum:  8.9448207706e-01
+Chebyshev polynomial degree: 76
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 2.025e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 6.014e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+L-2 Norm of residue   :
+
+
+Beginning Chebyshev filter pass 3
+Hamiltonian Matrix Computation, wall time: 0.199274s.
+kPoint: 8
+upper bound of unwanted spectrum:  2.6300000000e+03
+lower bound of unwanted spectrum:  8.9181315553e-01
+Chebyshev polynomial degree: 76
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 2.023e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 6.001e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+L-2 Norm of residue   :
+
+
+Beginning Chebyshev filter pass 3
+Hamiltonian Matrix Computation, wall time: 0.199025s.
+kPoint: 9
+upper bound of unwanted spectrum:  2.6300000000e+03
+lower bound of unwanted spectrum:  8.8936432832e-01
+Chebyshev polynomial degree: 76
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 2.024e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 5.999e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+L-2 Norm of residue   :
+
+
+Beginning Chebyshev filter pass 3
+Hamiltonian Matrix Computation, wall time: 0.199655s.
+kPoint: 10
+upper bound of unwanted spectrum:  2.6300000000e+03
+lower bound of unwanted spectrum:  8.8882717604e-01
+Chebyshev polynomial degree: 76
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 2.021e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 6.021e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+L-2 Norm of residue   :
+
+
+Beginning Chebyshev filter pass 3
+Hamiltonian Matrix Computation, wall time: 0.198088s.
+kPoint: 11
+upper bound of unwanted spectrum:  2.6300000000e+03
+lower bound of unwanted spectrum:  8.9069168281e-01
+Chebyshev polynomial degree: 76
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 2.014e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 6.011e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+L-2 Norm of residue   :
+
+
+Beginning Chebyshev filter pass 3
+Hamiltonian Matrix Computation, wall time: 0.19928s.
+kPoint: 12
+upper bound of unwanted spectrum:  2.6300000000e+03
+lower bound of unwanted spectrum:  8.9277508184e-01
+Chebyshev polynomial degree: 76
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 2.017e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 6.011e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+L-2 Norm of residue   :
+
+
+Fermi energy constraint residual (bisection): 1.098214852390810847e-10
+Fermi energy constraint residual (Newton-Raphson): 0.000000000000000000e+00
+Fermi energy                                     : 1.697914431086451348e-01
+Maximum residual norm among all states with occupation number greater than 1e-3: 3.840421716377915295e-01
+Beginning Chebyshev filter pass 4
+Hamiltonian Matrix Computation, wall time: 0.199451s.
+kPoint: 0
+upper bound of unwanted spectrum:  2.6300000000e+03
+lower bound of unwanted spectrum:  3.7703251907e-01
+Chebyshev polynomial degree: 76
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 2.011e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 6.024e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+L-2 Norm of residue   :
+
+
+Beginning Chebyshev filter pass 4
+Hamiltonian Matrix Computation, wall time: 0.199763s.
+kPoint: 1
+upper bound of unwanted spectrum:  2.6300000000e+03
+lower bound of unwanted spectrum:  3.7775489809e-01
+Chebyshev polynomial degree: 76
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 2.018e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 6.003e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+L-2 Norm of residue   :
+
+
+Beginning Chebyshev filter pass 4
+Hamiltonian Matrix Computation, wall time: 0.199269s.
+kPoint: 2
+upper bound of unwanted spectrum:  2.6300000000e+03
+lower bound of unwanted spectrum:  3.7841720798e-01
+Chebyshev polynomial degree: 76
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 2.025e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 6.031e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+L-2 Norm of residue   :
+
+
+Beginning Chebyshev filter pass 4
+Hamiltonian Matrix Computation, wall time: 0.199222s.
+kPoint: 3
+upper bound of unwanted spectrum:  2.6300000000e+03
+lower bound of unwanted spectrum:  3.7930054182e-01
+Chebyshev polynomial degree: 76
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 2.025e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 5.992e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+L-2 Norm of residue   :
+
+
+Beginning Chebyshev filter pass 4
+Hamiltonian Matrix Computation, wall time: 0.198851s.
+kPoint: 4
+upper bound of unwanted spectrum:  2.6300000000e+03
+lower bound of unwanted spectrum:  3.8014176201e-01
+Chebyshev polynomial degree: 76
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 2.013e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 6.008e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+L-2 Norm of residue   :
+
+
+Beginning Chebyshev filter pass 4
+Hamiltonian Matrix Computation, wall time: 0.199392s.
+kPoint: 5
+upper bound of unwanted spectrum:  2.6300000000e+03
+lower bound of unwanted spectrum:  3.8025764183e-01
+Chebyshev polynomial degree: 76
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 2.025e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 6.024e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+L-2 Norm of residue   :
+
+
+Beginning Chebyshev filter pass 4
+Hamiltonian Matrix Computation, wall time: 0.199591s.
+kPoint: 6
+upper bound of unwanted spectrum:  2.6300000000e+03
+lower bound of unwanted spectrum:  3.7819986780e-01
+Chebyshev polynomial degree: 76
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 2.024e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 5.997e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+L-2 Norm of residue   :
+
+
+Beginning Chebyshev filter pass 4
+Hamiltonian Matrix Computation, wall time: 0.198461s.
+kPoint: 7
+upper bound of unwanted spectrum:  2.6300000000e+03
+lower bound of unwanted spectrum:  3.7655152730e-01
+Chebyshev polynomial degree: 76
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 2.029e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 6.018e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+L-2 Norm of residue   :
+
+
+Beginning Chebyshev filter pass 4
+Hamiltonian Matrix Computation, wall time: 0.199368s.
+kPoint: 8
+upper bound of unwanted spectrum:  2.6300000000e+03
+lower bound of unwanted spectrum:  3.7612708245e-01
+Chebyshev polynomial degree: 76
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 2.017e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 6.031e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+L-2 Norm of residue   :
+
+
+Beginning Chebyshev filter pass 4
+Hamiltonian Matrix Computation, wall time: 0.199058s.
+kPoint: 9
+upper bound of unwanted spectrum:  2.6300000000e+03
+lower bound of unwanted spectrum:  3.7637483076e-01
+Chebyshev polynomial degree: 76
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 2.011e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 6.016e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+L-2 Norm of residue   :
+
+
+Beginning Chebyshev filter pass 4
+Hamiltonian Matrix Computation, wall time: 0.198342s.
+kPoint: 10
+upper bound of unwanted spectrum:  2.6300000000e+03
+lower bound of unwanted spectrum:  3.7939146233e-01
+Chebyshev polynomial degree: 76
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 2.027e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 6.018e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+L-2 Norm of residue   :
+
+
+Beginning Chebyshev filter pass 4
+Hamiltonian Matrix Computation, wall time: 0.199297s.
+kPoint: 11
+upper bound of unwanted spectrum:  2.6300000000e+03
+lower bound of unwanted spectrum:  3.7974683258e-01
+Chebyshev polynomial degree: 76
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 2.026e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 6.018e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+L-2 Norm of residue   :
+
+
+Beginning Chebyshev filter pass 4
+Hamiltonian Matrix Computation, wall time: 0.198417s.
+kPoint: 12
+upper bound of unwanted spectrum:  2.6300000000e+03
+lower bound of unwanted spectrum:  3.7968456123e-01
+Chebyshev polynomial degree: 76
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 2.021e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    | 6.019e-02s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
++---------------------------------+-----------+------------+------------+
+
+L-2 Norm of residue   :
+
