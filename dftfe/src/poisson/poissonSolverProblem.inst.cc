@@ -1,0 +1,15 @@
+template class poissonSolverProblem<2>;
+template class poissonSolverProblem<3>;
+template class poissonSolverProblem<4>;
+template class poissonSolverProblem<5>;
+template class poissonSolverProblem<6>;
+template class poissonSolverProblem<7>;
+template class poissonSolverProblem<8>;
+template class poissonSolverProblem<9>;
+template class poissonSolverProblem<10>;
+template class poissonSolverProblem<11>;
+template class poissonSolverProblem<12>;
+template class poissonSolverProblem<13>;
+template class poissonSolverProblem<14>;
+template class poissonSolverProblem<15>;
+template class poissonSolverProblem<16>;

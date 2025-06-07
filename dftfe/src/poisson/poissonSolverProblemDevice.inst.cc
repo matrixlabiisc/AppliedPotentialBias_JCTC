@@ -1,0 +1,15 @@
+template class poissonSolverProblemDevice<2>;
+template class poissonSolverProblemDevice<3>;
+template class poissonSolverProblemDevice<4>;
+template class poissonSolverProblemDevice<5>;
+template class poissonSolverProblemDevice<6>;
+template class poissonSolverProblemDevice<7>;
+template class poissonSolverProblemDevice<8>;
+template class poissonSolverProblemDevice<9>;
+template class poissonSolverProblemDevice<10>;
+template class poissonSolverProblemDevice<11>;
+template class poissonSolverProblemDevice<12>;
+template class poissonSolverProblemDevice<13>;
+template class poissonSolverProblemDevice<14>;
+template class poissonSolverProblemDevice<15>;
+template class poissonSolverProblemDevice<16>;

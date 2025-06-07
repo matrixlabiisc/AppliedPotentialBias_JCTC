@@ -1,0 +1,46 @@
+#!/bin/bash
+## ------------------------------------------------------------------------
+##
+## SPDX-License-Identifier: LGPL-2.1-or-later
+## Copyright (C) 2012 - 2024 by the deal.II authors
+##
+## This file is part of the deal.II library.
+##
+## Part of the source code is dual licensed under Apache-2.0 WITH
+## LLVM-exception OR LGPL-2.1-or-later. Detailed license information
+## governing the source code and code contributions can be found in
+## LICENSE.md and CONTRIBUTING.md at the top level directory of deal.II.
+##
+## ------------------------------------------------------------------------
+## This file is adapted by Sambit Das and Nikhil Kodali for use with DFT-FE code
+## -------------------------------------------------------------------------------------
+
+
+source indentationStandard/indent_common.sh
+
+#
+# Run sanity checks:
+#
+
+checks
+
+#
+# Process all source and header files:
+#
+
+process "include utils src pseudoConverters" ".*\.(cc|cpp|h|cu|cuh)" format_file
+
+#
+# Removing trailing whitespace
+#
+
+process "include utils src pseudoConverters" \
+  ".*\.(cc|cpp|h|cu|cuh|html|dox|txt)" remove_trailing_whitespace
+
+#
+# Ensure only a single newline at end of files
+#
+
+process "include utils src pseudoConverters" \
+  ".*\.(cc|cpp|h|cu|cuh|html|dox|txt)" ensure_single_trailing_newline
+
