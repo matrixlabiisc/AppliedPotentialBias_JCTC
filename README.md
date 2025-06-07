@@ -4,7 +4,7 @@ Input and output files of various results published in the paper. The arxiv vers
 
 Pseudopotential data is not present. The pseudopotentials can be obtained from [SPMS database](https://github.com/SPARC-X/SPMS-psps).
 
-The DFT-FE code used here is not par of the release branch. The version of DFT-FE to reproduce the results can be found in this repository. These capabilities will be implemented in future release of DFT-FE. The appropriate changes to the input files will be updated in this repository when the capabilities are merged in the relase branch of DFT-FE. The release branch of DFT-FE is found at [DFT-FE release](https://github.com/dftfeDevelopers/dftfe) and scripts for installation can be found at [DFT-FE install script](https://github.com/dftfeDevelopers/install_DFTFE)
+The DFT-FE code used here is not part of the release branch. The version of DFT-FE to reproduce the results can be found in this repository. These capabilities will be implemented in future release of DFT-FE. The appropriate changes to the input files will be updated in this repository when the capabilities are merged in the relase branch of DFT-FE. The release branch of DFT-FE is found at [DFT-FE release](https://github.com/dftfeDevelopers/dftfe) and scripts for installation can be found at [DFT-FE install script](https://github.com/dftfeDevelopers/install_DFTFE)
 
 
 The repository contains 5 folders:
